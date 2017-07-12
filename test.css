@@ -1,0 +1,222 @@
+/*
+= dcmodel.css: Style sheet file for dcmodel HTML files generated from RD files
+
+ Change log (New change log is added to above)
+
+  * 2007/07/30 (Y. Morikawa) Unnecessary comments are removed
+  * 2007/07/30 (Y. Morikawa) Format is arranged.
+  * 2006/06/21 (Y. Morikawa) "ol.rd2html_hindex" is modified.
+  * 2006/06/06 (Y. Morikawa) "ul p", "ol p" is added.
+  * 2005/11/06 (Y. Morikawa) background URL is changed to local site
+  * 2005/08/11 (Y. Morikawa) Update
+  * 2005/06/02 (Y. Morikawa) Update
+  * 2005/04/13 (M. Ishiwatari) Update
+  * 2005/02/13 (M. Odaka)
+*/
+
+body {
+  //background: #FFFBFD;
+  background: white;
+  //background: #adff2f;
+  //background: black;
+  //background: #EEEEEE;
+  // background: url(http://www.gfd-dennou.org/html/htmltool/wall_d.gif);
+  //background: url(/html/htmltool/wall_d.gif);
+  //color: white;
+  color: black;
+  margin-left: 5%;
+  margin-right: 5%;
+  // font-size: 10.5pt;
+  font-family: verdana, arial, helvetica, Sans-Serif;
+  line-height: 150%;
+}
+
+h1 {
+  //background: #9999FF;
+  color: #FFFFFF;
+  //color: #000080;
+  background: #008080;
+  //background: white;
+  //color: red;
+  //background: #000080;
+  //color: #310018;
+/*
+  color: orange;
+*/
+  font-family: "times roman", verdana, sans-serif; 
+  text-align: center;
+  //border-top: #9999FF 4px solid;
+  //border-bottom: #9999FF 4px solid;
+  //border-top: #FF8EC7 4px solid;
+  //border-bottom: #FF8EC7 4px solid;
+  border-top: #008080 4px solid;
+  border-bottom: #008080 4px solid;
+  line-height: 100%;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: verdana, arial, helvetica, Sans-Serif;
+}
+
+h2 {
+  //color: #310018;
+  border-left: #000080 0.6em solid;
+  border-bottom: #000080 5px solid;
+  //border-bottom: #0099ff 5px solid;
+  margin-right: 30%;
+}
+
+h3 {
+  //color: #003366;
+  border-bottom: #000080 1px solid;
+  //color: #99004D;
+  //border-bottom: #7B003E 1px solid;
+  margin-right: 35%;
+  margin-top:2ex;
+  margin-bottom:0ex;
+  margin-left: 0.5em;
+}
+
+h4 {
+  //color: #310018;
+  margin-left: 1.0em;
+}
+
+h5 {
+  color: black;
+  margin-left: 1.5em;
+}
+
+ul {
+  margin-left: 3em;
+  padding: 0;
+}
+
+ul ul {
+  margin-left: 1.5em;
+  padding: 0;
+}
+
+ul ol {
+  margin-left: 2.0em;
+  padding: 0;
+}
+
+ol {
+  margin-left: 3.5em;
+  padding: 0;
+}
+
+ol ol {
+  margin-left: 2.0em;
+  padding: 0;
+}
+
+ol ul {
+  margin-left: 1.5em;
+  padding: 0;
+}
+
+li {
+  line-height: 150%;
+}
+
+
+dt {
+  font-weight: bold;
+  margin-top: 2ex;
+  margin-left: 1em;
+}
+
+dl {
+  margin-left: 1em;
+}
+
+p {
+  margin-left: 2em;
+}
+
+ul p {
+  margin-left: 0em;
+  padding: 0;
+}
+
+ol p {
+  margin-left: 0em;
+  padding: 0;
+}
+
+code {
+  padding-right: 0.5em;
+  padding-top: 0.3em;
+  padding-left: 0.5em;
+  padding-bottom: 0.3em;
+  // background-color: #3e3e3e;
+  // color: #e6e6e6;
+  // text-decoration: underline;
+  border-top: #000080 1px solid;
+  border-bottom: #000080 1px solid;
+  border-left: #000080 1px solid;
+  border-right: #000080 1px solid;
+}
+
+ol.rd2html_hindex {
+  font-size: 80%;
+  list-style-type: decimal;
+  margin-left: 5ex;
+  margin-right: 0ex;
+  margin-top: 0ex;
+  margin-bottom: 0ex;
+  line-height: 100%;
+}
+
+ol.rd2html_hindex ul {
+  font-size: 100%;
+  list-style-type: decimal;
+  margin-left: 3ex;
+  margin-right: 0ex;
+  margin-top: 0ex;
+  margin-bottom: 0ex;
+  line-height: 100%;
+}
+
+em {
+  color: #004080;
+  font-family: arial, helvetica, Sans-Serif, gothic;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+}
+
+pre {
+  line-height: 100%;
+  //border-right: #646464 1px dashed;
+  border-right: #000080 1px solid;
+  border-top: #000080 1px solid;
+  border-left: #000080 1px solid;
+  border-bottom: #000080 1px solid;
+  //padding-right: 0.5em;
+  padding-right: 5.5em;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
+  margin-left: 2em;
+  margin-right: 5em;
+  white-space: pre;
+  //background-color: #FFF4FA;
+  //background-color: #e6e6e6;
+  color: black;
+  //color: #004080;
+  font-size: 110%;
+  font-style: normal;
+}
+
+p.date{
+  text-align: right;
+}
+
+p.name{
+  text-align: right;
+  font-style: italic;
+}
+

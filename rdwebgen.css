@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* -*- coding: utf-8; -*-
+= rdwebgen.{scss,css}
+
+このファイルを sass に通すことで rdwebgen.css を生成する.
+rdwebgen.css は常に上書きされる可能性のあることに注意されたい.
+
+*/
+body {
+  background: url("/home/matsuba/Downloads/RDWebgen/wall_d.gif");
+  color: #000; }
+
+div.main {
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  box-shadow: 0 1px 2px #ccc;
+  -webkit-box-shadow: 0 1px 2px #ccc;
+  -moz-box-shadow: 0 1px 2px #ccc;
+  background-color: rgba(255, 255, 255, 0.6);
+  margin: 12px auto; }
+
+a {
+  color: #00f;
+  text-decoration: none; }
+  a:link {
+    color: #00f;
+    text-decoration: none; }
+  a:visited {
+    color: #00f;
+    text-decoration: none; }
+  a:hover {
+    color: #f00;
+    text-decoration: underline; }
+  a:active {
+    color: #0ff;
+    text-decoration: underline; }
+
+h1 {
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  box-shadow: 0 1px 2px #ccc;
+  -webkit-box-shadow: 0 1px 2px #ccc;
+  -moz-box-shadow: 0 1px 2px #ccc;
+  background: #9999FF;
+  color: #FFFFFF;
+  border-top: #9999FF 4px solid;
+  border-bottom: #9999FF 4px solid;
+  line-height: 100%;
+  padding: 10px 14px; }
+  h1 a {
+    color: #FFFFFF;
+    text-decoration: none; }
+    h1 a:hover {
+      color: #FFFFFF;
+      text-decoration: none; }
+    h1 a:active {
+      color: #FFFFFF;
+      text-decoration: none; }
+    h1 a:link {
+      color: #FFFFFF;
+      text-decoration: none; }
+    h1 a:visited {
+      color: #FFFFFF;
+      text-decoration: none; }
+
+h2 {
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  box-shadow: 0 1px 2px #ccc;
+  -webkit-box-shadow: 0 1px 2px #ccc;
+  -moz-box-shadow: 0 1px 2px #ccc;
+  color: #000;
+  border-left: #9999ff 0.5em solid;
+  border-bottom: #0099ff 4px solid;
+  padding-left: 10px; }
+  h2 a {
+    color: #000;
+    text-decoration: none; }
+    h2 a:hover {
+      color: #000;
+      text-decoration: none; }
+    h2 a:active {
+      color: #000;
+      text-decoration: none; }
+    h2 a:link {
+      color: #000;
+      text-decoration: none; }
+    h2 a:visited {
+      color: #000;
+      text-decoration: none; }
+
+h3 {
+  color: #003366;
+  border-bottom: #000066 1px solid;
+  padding-left: 10px; }
+  h3 a {
+    color: #003366;
+    text-decoration: none; }
+    h3 a:hover {
+      color: #003366;
+      text-decoration: none; }
+    h3 a:active {
+      color: #003366;
+      text-decoration: none; }
+    h3 a:link {
+      color: #003366;
+      text-decoration: none; }
+    h3 a:visited {
+      color: #003366;
+      text-decoration: none; }

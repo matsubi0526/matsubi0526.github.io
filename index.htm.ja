@@ -60,12 +60,6 @@
     <ul class="nav navbar-nav">
       
       
-      <li><a href="http://www-mete.kugi.kyoto-u.ac.jp/index.html">気象学研究室</a></li>
-      
-      <li><a href="http://www-mete.kugi.kyoto-u.ac.jp/matsuba/index.html">松葉のWebページ（京大サーバ）</a></li>
-      
-      <li><a href="https://matsubi0526.github.io/">松葉のWebページ（github.io）</a></li>
-      
       
     </ul>
     <ul class="nav navbar-nav navbar-right">
@@ -104,7 +98,7 @@
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2020/04/13, Since 2019/10/19
+    Lastupdate: 2020/04/13, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

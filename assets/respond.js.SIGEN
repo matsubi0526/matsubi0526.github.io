@@ -1,0 +1,8 @@
+Subject:	respond.js: ver. 1.3.0
+Maintainer:	佐々木洋平
+Description:	本家: http://github.com/scottjehl/Respond
+				IE 6-8 で CSS3 の media query を使えるようにする Javascript
+Note:
+
+履歴
+        2014/02/19 SIGEN 作成

@@ -1,0 +1,9 @@
+Subject:	jquery and jquery plugin
+Maintainer:	佐々木洋平
+Description:	Javascript library 集
+				jquery 本体: jquery.min.js version 1.10.12
+				plugin: jquery.cycle2.center.js jquery.cycle2.min.js
+Note:
+
+履歴
+        2014/02/19 SIGEN 作成

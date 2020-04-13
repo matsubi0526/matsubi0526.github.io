@@ -1,0 +1,7 @@
+Subject:	html5shiv.js: version. 3.7.0
+Maintainer:	佐々木洋平
+Description:	本家: https://github.com/aFarkas/html5shiv
+				IE <= 8 などで HTML5 のタグを使えるようにする Javascript
+
+履歴
+        2014/02/19 SIGEN 作成

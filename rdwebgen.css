@@ -83,7 +83,7 @@ h2 {
       color: #000;
       text-decoration: none; }
     h2 a:active {
-      color: #000;
+      color: #ffe2dc;
       text-decoration: none; }
     h2 a:link {
       color: #000;
@@ -100,7 +100,7 @@ h3 {
     color: #003366;
     text-decoration: none; }
     h3 a:hover {
-      color: #003366;
+      color: #ffe2dc;
       text-decoration: none; }
     h3 a:active {
       color: #003366;

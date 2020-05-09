@@ -87,15 +87,51 @@
     <div class="container main">
 <div id="main">
 <section class="contents">
-<h2><a id="label-0">リンク集</a></h2>
+<h2><a id="label-0">プロフィール</a></h2>
+<ul>
+<li>経歴</li>
+</ul>
+<h2><a id="label-1">GPhys Tips集</a></h2>
+<ul>
+<li>GPhys/GGraph ユーザーの敷居を低くするための知恵袋。順次更新します。</li>
+</ul>
+<h2><a id="label-2">リンク集</a></h2>
+<ul>
+<li>Python
 <ul>
 <li><a href="https://kyotogeopython.zawawahoge.com/">KyotoGeoPythonホームページ</a></li>
+</ul></li>
+<li>GPhys/GGraph
+<ul>
+<li><a href="http://ruby.gfd-dennou.org/index.htm.ja">地球流体電脳Rubyプロジェクト</a></li>
+<li><a href="http://davis.gfd-dennou.org/rubygadgets/ja/">GFD電脳Ruby小物置き場</a></li>
+<li><a href="http://ruby.gfd-dennou.org/products/gphys/Recipes/recipes_j/">GPhysレシピ</a></li>
+<li><a href="http://ruby.gfd-dennou.org/products/ruby-dcl/ruby-dcl-doc/index.html">RubyDCLマニュアル</a></li>
 <li><a href="http://ruby.gfd-dennou.org/products/gphys/tutorial2">GPhys, GGraphチュートリアル(新)</a></li>
 <li><a href="http://ruby.gfd-dennou.org/products/gphys/tutorial.old/body-j.html">GPhys, GGraphチュートリアル(旧)</a></li>
-</ul>
-<h2><a id="label-1">Changelog</a></h2>
+</ul></li>
+<li>大学関係
 <ul>
-<li>2020-04-13: HPをオープンしました。コンテンツはこれから増やします。</li>
+<li><a href="http://www-mete.kugi.kyoto-u.ac.jp/index.html">京都大学 気象学研究室</a></li>
+<li><a href="http://www-clim.kugi.kyoto-u.ac.jp/index.html">京都大学 物理気候学研究室</a></li>
+</ul></li>
+<li>知り合いの方々の個人ページ
+<ul>
+<li><a href="http://www.gfd-dennou.org/arch/satoki/pub/main/index.html">辻野智紀の個人ページ</a></li>
+<li><a href="https://takashiunuma.github.io/">Takashi Unuma's Web Page</a></li>
+<li><a href="https://sites.google.com/view/yasushifujiwara">Yasushi Fujiwara's website</a></li>
+<li><a href="https://ccsr.aori.u-tokyo.ac.jp/~takasuka/">Daisuke Takasuka's Web Page</a></li>
+<li><a href="http://www.atmos.rcast.u-tokyo.ac.jp/shion/index.htm">Shion's Webpage</a>
+<ul>
+<li><code>NCL</code> に関するTips集があります。</li>
+</ul></li>
+<li><a href="http://www-aos.eps.s.u-tokyo.ac.jp/~minamihara/">南原 優一のホームページ</a></li>
+</ul></li>
+</ul>
+<h2><a id="label-3">Changelog</a></h2>
+<ul>
+<li>2020/05/09: プロフィール、GPhys Tips集を追記、リンク集を更新しました。</li>
+<li>2020/04/13: HPをオープンしました。コンテンツはこれから増やします。</li>
 </ul>
 </section>
 </div>
@@ -104,7 +140,7 @@
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2020/04/13, Since 2020/04/13
+    Lastupdate: 2020/05/09, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

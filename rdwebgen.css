@@ -10,6 +10,11 @@ body {
   background: url("/home/matsuba/Downloads/RDWebgen/wall_d.gif");
   color: #000; }
 
+.navbar-default {
+    background-color: #003366;
+    border-color: #003366;
+}
+
 div.main {
   border-radius: 8px;
   -webkit-border-radius: 8px;

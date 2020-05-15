@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="MATSUBA Fumitaka">
+    <title>松葉のWebページにようこそ: ライブ参戦歴</title>
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://matsubi0526.github.io/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+       <script src="https://matsubi0526.github.io/assets/html5shiv/html5shiv.js"></script>
+       <script src="https://matsubi0526.github.io/assets/respond.js/respond.min.js"></script>
+    <![endif]-->
+    
+    <link href="https://matsubi0526.github.io/rdwebgen.css" rel="stylesheet">
+    
+    <script src="https://matsubi0526.github.io/assets/jquery/jquery.min.js"></script>
+    <script src="https://matsubi0526.github.io/assets/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- this is a test of additional header -->
+
+    
+  <style type="text/css">
+   .navbar-nav > li {
+     font-size: 10pt;
+   }
+   .navbar-nav > li > a {
+     padding-left: 2px;
+     padding-right: 2px;
+   }
+   .navbar-nav > li > a:before {
+     content: " / ";
+     color: #ccc;
+   }
+   .navbar-brand > a {
+   }
+   .navbar-form {
+     margin-right: 5px;
+     margin-left: 5px;
+   }
+  </style>
+  </head>
+  <body>
+  <nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header01">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="https://matsubi0526.github.io">松葉のWebページにようこそ</a>
+  </div>
+  <div class="collapse navbar-collapse" id="header01">
+    <ul class="nav navbar-nav">
+      
+      
+      
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+    <li>
+    
+    
+    </li>
+    <li>
+    <form class="navbar-form" role="search"
+                 action="http://google.com/search"
+                 method="get"
+                 onsubmit="$('#siteseach').val($location).attr('host')+$(location).attr('patname')">
+        <input type="hidden" name="q"  value="site:https://matsubi0526.github.io">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="sitesearch" id="sitesearch">
+        
+        <input type="text" name="q"  size="6" class="form-control" placeholder="検索">
+        
+    </form>
+    </li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+    </nav>
+    <div class="container main">
+<div id="main">
+<section class="contents">
+<h1><a id="label-0">ライブ参戦歴</a></h1>
+<h3><a id="label-1">参戦予定のライブ</a></h3>
+<ul>
+<li><a href="http://en-zine.jp/pc/live/inabasalas20/index.html">INABA／SALAS "the First of the Last Big Tours 2020"</a> <font color=red>（新型コロナウイルスの影響により全公演延期）</font></li>
+<li><a href="http://houseofstrings.jp/tour/2020/">Tak Matsumoto Tour 2020 -Here Comes the Bluesman-</a> <font color=red>（新型コロナウイルスの影響により全公演延期）</font></li>
+<li>阿部真央 らいぶNo.9 <font color=red>（新型コロナウイルスの影響により2021年春に延期）</font></li>
+<li><a href="https://www.ken-on.co.jp/leo2020/ticket_schedule/">家入レオ Live House Tour 2020</a></li>
+</ul>
+<h2><a id="label-2"><a href="https://bz-vermillion.com/index.html">B'z</a></a></h2>
+<ul>
+<li><a href="https://bz-vermillion.com/livegym2019/schedule.html">B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE- </a>
+<ul>
+<li>2019/07/03: 大阪・大阪城ホール
+<ul>
+<li>バックスタンド席で間近だったため逆に感動</li>
+</ul></li>
+</ul></li>
+<li><a href="https://bz-vermillion.com/pleasure18/schedule.html">B'z LIVE-GYM Pleasure 2018 -HINOTORI- </a>
+<ul>
+<li>2018/09/06: 愛知・豊田スタジアム</li>
+<li>2018/09/01: 福岡・福岡 ヤフオク!ドーム
+<ul>
+<li>TOUR DOCUMENTARY にも収録された伝説のライブ</li>
+</ul></li>
+</ul></li>
+<li><a href="https://bz-vermillion.com/dinosaur/schedule.html">B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"</a>
+<ul>
+<li>2017/12/23: 福岡・福岡 ヤフオク!ドーム
+<ul>
+<li>「いつかのメリークリスマス」が披露された公演のひとつ</li>
+</ul></li>
+</ul></li>
+<li><a href="http://bz-livegym.com/schedule.html#stadium">B'z LIVE-GYM 2015 -EPIC NIGHT-</a>
+<ul>
+<li>2015/07/05: 大阪・京セラドーム大阪</li>
+</ul></li>
+<li><a href="http://bz-livegym.com/schedule.html#zepp">B'z LIVE-GYM 2015 -epic night-</a>
+<ul>
+<li>2015/06/18: 大阪・Zepp Namba
+<ul>
+<li>奇跡的に当選して参戦できたライブ</li>
+</ul></li>
+</ul></li>
+<li>B'z LIVE-GYM 2011 -C'mon-
+<ul>
+<li>2011/12/15: 大阪・京セラドーム大阪
+<ul>
+<li>人生で初めて参加したライブ</li>
+</ul></li>
+</ul></li>
+</ul>
+<h2><a id="label-3"><a href="https://www.jvcmusic.co.jp/leo-ieiri/">家入レオ</a></a></h2>
+<ul>
+<li><a href="https://www.ken-on.co.jp/leoieiri_7th/">家入レオ 7th Live Tour 2019 ～DUO～</a>
+<ul>
+<li>2019/07/19: 兵庫・神戸国際会館 こくさいホール</li>
+<li>2019/06/14: 秋田・秋田市文化会館</li>
+<li>2019/05/26: 愛知・名古屋国際会議場 センチュリーホール</li>
+<li>2019/05/19: 香川・サンポートホール高松 大ホール  </li>
+</ul></li>
+<li>家入レオ 7th Anniversary Live at 大阪城ホール ～Premium Symphonic Night～
+<ul>
+<li>2019/02/24: 大阪・大阪城ホール</li>
+</ul></li>
+<li>家入レオ 6th Live Tour 2018 ～TIME～
+<ul>
+<li>2018/07/01: 東京・東京国際フォーラムホールA</li>
+<li>2018/05/20: 香川・サンポートホール高松 大ホール</li>
+<li>2018/05/12: 大阪・大阪国際会議場 メインホール</li>
+</ul></li>
+<li>家入レオ 5th Anniversary FanClub Event 2017
+<ul>
+<li>2017/10/20: 東京・豊洲PIT</li>
+</ul></li>
+<li>家入レオ 5th Anniversary Live at Zepp
+<ul>
+<li>2017/09/20: 大阪・Zepp Namba</li>
+</ul></li>
+<li>家入レオ 5th Anniversary Live at 日本武道館
+<ul>
+<li>2017/04/30: 東京・日本武道館</li>
+</ul></li>
+<li>家入レオ 5th Live Tour 2016 〜WE｜ME〜
+<ul>
+<li>2016/11/04: 滋賀・守山市民ホール</li>
+</ul></li>
+<li>家入レオ 3rd ワンマン Tour 〜a boy〜
+<ul>
+<li>2014/04/20: 愛知・愛知県芸術劇場大ホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-4"><a href="https://abemao.com/">阿部真央</a></a></h2>
+<ul>
+<li>阿部真央 らいぶ 夏の陣～2019～
+<ul>
+<li>2019/07/27: 大阪・大阪城音楽堂</li>
+</ul></li>
+<li><a href="https://abemao.com/feature/liveno8">阿部真央 らいぶ No.8 ～ 10th Anniversary Special ～</a>
+<ul>
+<li>2019/01/27: 兵庫・神戸ワールド記念ホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-5"><a href="http://houseofstrings.jp/">松本孝弘／TAK MATSUMOTO</a></a></h2>
+<ul>
+<li>Tak Matsumoto Tour 2016 -The Voyage-
+<ul>
+<li>2016/04/24: 大阪・大阪城ホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-6"><a href="http://en-zine.jp/pc/index.html">稲葉浩志</a></a></h2>
+<ul>
+<li>Koshi Inaba LIVE 2016 ～enIII～
+<ul>
+<li>2016/02/11: 愛知・日本ガイシホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-7"><a href="https://www.aimyong.net/">あいみょん</a></a></h2>
+<ul>
+<li><a href="https://www.aimyong.net/news/detail/724">AIMYON TOUR 2019 -SIXTH SENSE STORY-【追加公演】</a>
+<ul>
+<li>2020/02/13: 大阪・大阪城ホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-8"><a href="https://www.mai-kuraki.com/">倉木麻衣</a></a></h2>
+<ul>
+<li><a href="https://www.mai-kuraki.com/20th/news/20190120_tour19.html">20th Anniversary Mai Kuraki Live Project 2019 "Let's GOAL! ～薔薇色の人生～"</a>
+<ul>
+<li>2019/08/25: 京都・ロームシアター京都 メインホール</li>
+</ul></li>
+<li><a href="https://www.mai-kuraki.com/20th/news/20190120_billboard.html">billboard classics 20th Anniversary Mai Kuraki premium symphonic concert 2019</a>
+<ul>
+<li>2019/05/01: 兵庫・兵庫県立芸術文化センター大ホール</li>
+</ul></li>
+<li>Mai Kuraki Live Project 2018 "Red it be ～君想ふ 春夏秋冬～"
+<ul>
+<li>2018/10/28: 大阪・グランキューブ大阪 メインホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-9"><a href="https://ikimonogakari.com/">いきものがかり</a></a></h2>
+<ul>
+<li>いきものがかりの みなさん、こんにつあー!! 2015 ～FUN! FUN! FANFARE!～
+<ul>
+<li>2015/07/18: 大阪・大阪城ホール</li>
+</ul></li>
+</ul>
+<h2><a id="label-10">Various Artists</a></h2>
+<ul>
+<li><a href="https://veats.jp/schedule/131/">Veats Shibuya OPENING EVENT Colorful Records presents "Match Up" Day 1</a>
+<ul>
+<li>2019/09/20: 東京・Veats Shibuya
+<ul>
+<li>家入レオ / SCANDAL Opening Act:吉田凜音</li>
+</ul></li>
+</ul></li>
+<li><a href="http://www.rockmatsuri.com/osaka2018/">ビクターロック祭り大阪☓MBS音楽2018 supported by uP!!!</a>
+<ul>
+<li>2018/10/07: 大阪・大阪城ホール</li>
+</ul></li>
+<li><a href="http://minnanomusic.com/">みんなのMUSIC with あらあらかしこ</a>
+<ul>
+<li>2018/07/15: 宮城・仙台PIT
+<ul>
+<li>家入レオ / THE BAWDIES / 平井 大 / MACO</li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.mbs.jp/okazaki-loops/prog-23_main.shtml">京都岡崎音楽祭 OKAZAKI LOOPS 2018 agehasprings produce《node_vol.2》</a>
+<ul>
+<li>2018/06/23: 京都・ロームシアター京都 メインホール
+<ul>
+<li>家入レオ / Aimer / 阿部真央</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+</div>
+  </div> <!-- /.container main -->
+  <div class="container main">
+  <footer>
+    <p>
+    &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
+    Lastupdate: 2020/05/15, Since 2020/04/13
+    </p>
+  </footer>
+  </div> <!-- /.container main -->
+  </body>
+</html>
+

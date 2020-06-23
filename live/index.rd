@@ -1,10 +1,10 @@
 =begin JA
 = ライブ参戦歴
 === 参戦予定のライブ
-* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>（新型コロナウイルスの影響により全公演延期）---> 振替公演決定(2020/06/20)</font>:))
-* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>)) ((:<font color=red>（新型コロナウイルスの影響により全公演延期）</font>:))
-* 阿部真央 らいぶNo.9 ((:<font color=red>（新型コロナウイルスの影響により2021年春に延期）</font>:))
-* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>)) ((:<font color=red>（新型コロナウイルスの影響により全公演中止(2020/06/23)）</font>:))
+* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20)</font>:))
+* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>)) ((:<font color=red>全公演延期</font>:))
+* 阿部真央 らいぶNo.9 ((:<font color=red>2021年春に延期</font>:))
+* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>)) ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == ((<B'z|URL:https://bz-vermillion.com/index.html>))
 * ((<B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE- |URL:https://bz-vermillion.com/livegym2019/schedule.html>))
@@ -12,11 +12,11 @@
     * バックスタンド席で間近だったため逆に感動
 * ((<B'z LIVE-GYM Pleasure 2018 -HINOTORI- |URL:https://bz-vermillion.com/pleasure18/schedule.html>))
   * 2018/09/06: 愛知・豊田スタジアム
-  * 2018/09/01: 福岡・福岡 ヤフオク!ドーム
+  * 2018/09/01: 福岡・福岡ヤフオク!ドーム
     * TOUR DOCUMENTARY にも収録された伝説のライブ
 
 * ((<B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR"|URL:https://bz-vermillion.com/dinosaur/schedule.html>))
-  * 2017/12/23: 福岡・福岡 ヤフオク!ドーム
+  * 2017/12/23: 福岡・福岡ヤフオク!ドーム
     * 「いつかのメリークリスマス」が披露された公演のひとつ
 * ((<B'z LIVE-GYM 2015 -EPIC NIGHT-|URL:http://bz-livegym.com/schedule.html#stadium>))
   * 2015/07/05: 大阪・京セラドーム大阪

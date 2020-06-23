@@ -1,6 +1,6 @@
 =begin JA
 == プロフィール
-* ((<経歴|URL:resume/index.htm.ja>))
+* ((<経歴|URL:resume/index.html>))
 == GPhys Tips集
 * GPhys/GGraph ユーザーの敷居を低くするための知恵袋を提供することが目的。
 * 地球流体電脳Rubyプロジェクト作成のページ集

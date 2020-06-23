@@ -47,8 +47,7 @@ end
 # all target files
 GENERATED_FILES = []; ALL_SRC_FILES.each do |fpath|
   basename = fpath.gsub("\.rd", '')
-  #GENERATED_FILES.push basename + ".htm.ja" if config["lang"]["ja"]
-  GENERATED_FILES.push basename + ".html" if config["lang"]["ja"]
+  GENERATED_FILES.push basename + ".htm.ja" if config["lang"]["ja"]
   GENERATED_FILES.push basename + ".htm.en" if config["lang"]["en"]
 end
 
@@ -69,17 +68,11 @@ task :clobber do
 end
 
 #= 拡張子ルール
-# 2020-05-15
-# revised by Fumitaka MATSUBA
-# rake で html を出力するために書き換え
-rule '.html' => "%{\$,.rd}X"  do |t|
+#
+rule '.ja' => "%{\.htm$,.rd}X"  do |t|
   puts "Update #{t} from #{t.source}"
   RD2Webgen.rdswap "#{t}", "#{t.source}", lang="ja", liquid
 end
-#rule '.ja' => "%{\.htm$,.rd}X"  do |t|
-#  puts "Update #{t} from #{t.source}"
-#  RD2Webgen.rdswap "#{t}", "#{t.source}", lang="ja", liquid
-#end
 rule '.en' => "%{\.htm$,.rd}X"  do |t|
   puts "Update #{t} from #{t.source}"
   RD2Webgen.rdswap "#{t}", "#{t.source}", lang="en", liquid
@@ -104,6 +97,7 @@ module RD2Webgen
     <meta name="viewport" content="width=device-width initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="{{ site.base_path }}/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="{{ site.base_path }}/assets/bootstrap/css/bootstrap-theme.min.css" type="text/css" media="all">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -125,6 +119,8 @@ module RD2Webgen
    .navbar-nav > li > a {
      padding-left: 2px;
      padding-right: 2px;
+     padding-top: 16px;
+     padding-bottom: 12px;
    }
    .navbar-nav > li > a:before {
      content: " / ";

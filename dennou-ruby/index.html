@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="author" content="MATSUBA Fumitaka">
-    <title>松葉のWebページにようこそ: プロフィール</title>
+    <title>松葉のWebページにようこそ: </title>
     <meta name="viewport" content="width=device-width initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="https://matsubi0526.github.io/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
@@ -84,23 +84,61 @@
     <div class="container main">
 <div id="main">
 <section class="contents">
-<h1><a id="label-0">プロフィール</a></h1>
-<h2><a id="label-1">経歴</a></h2>
-<h3><a id="label-2">学歴</a></h3>
+<h3><a id="label-0"><a href="http://ruby.gfd-dennou.org/index.htm.ja">地球流体電脳Rubyプロジェクト</a></a></h3>
 <ul>
-<li>1999/04 - 2005/03 : <a href="http://www.edu.city.fukuyama.hiroshima.jp/shou-hattori/">福山市立服部小学校</a>（2020年3月をもって閉校）</li>
-<li>2005/04 - 2008/03 : <a href="http://www.edu.city.fukuyama.hiroshima.jp/chu-ekiya/">福山市立駅家中学校</a></li>
-<li>2008/04 - 2011/03 : <a href="https://www.hiroshima-u.ac.jp/fu_fukuyama/">広島大学附属福山高等学校</a></li>
-<li>2011/04 - 2015/03 : <a href="http://www.sci.kyoto-u.ac.jp/ja/">京都大学理学部</a>（系登録: 地球惑星科学、研究室: 気象学研究室）</li>
-<li>2015/04 - 2017/03 : <a href="http://www.eps.sci.kyoto-u.ac.jp/">京都大学理学研究科 地球惑星科学専攻</a> <a href="http://www.kugi.kyoto-u.ac.jp/">地球物理学分野</a> 修士課程
+<li>公開領域のメールアーカイブはこちら。
 <ul>
-<li>卒業論文: Borneo Vortex に関する数値実験</li>
-<li>修士論文: <a href="shuron-matsuba.pdf">気象庁非静力学モデルを用いた数値実験によるボルネオ渦の研究</a></li>
+<li><a href="http://ruby.gfd-dennou.org/ml/index-j.htm">&lt;URL:http://ruby.gfd-dennou.org/ml/index-j.htm&gt;</a></li>
+</ul></li>
+<li>2014年を最後にメールアーカイブが更新されていないと思っていたが、非公開資源のほうで生きている（要認証）。
+<ul>
+<li><a href="https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/davis/ml-ruby/">&lt;URL:https://www.gfd-dennou.org/GFD_Dennou_Club/dc-arch/davis/ml-ruby/&gt;</a></li>
 </ul></li>
 </ul>
-<h3><a id="label-3">趣味</a></h3>
+<h2><a id="label-1">dennou-ruby ML</a></h2>
+<h3><a id="label-2">質量流線関数の描画</a></h3>
 <ul>
-<li>ライブに行くこと（<a href="../live/index.htm.ja">ライブ参戦歴</a>）</li>
+<li><a href="https://www.gfd-dennou.org/arch/ruby/ml/2011/msg00202.html">[dennou-ruby:003457] Re: 質量流線関数の描画</a>
+<ul>
+<li>愚直に定義にしたがい積分を差分化する</li>
+</ul></li>
+<li><a href="http://davis.gfd-dennou.org/rubygadgets/ja/?%28Library%29+%E8%B3%AA%E9%87%8F%E6%B5%81%E7%B7%9A%E9%96%A2%E6%95%B0%E3%81%AE%E8%A8%88%E7%AE%97">(Library) 質量流線関数の計算</a>
+<ul>
+<li>高橋さん@神戸大 が投稿されている。for ループでの差分計算。</li>
+</ul></li>
+<li><a href="https://www.rubydoc.info/gems/gphys/1.5.0/NumRu/GAnalysis/MetZ.mass_strm_p">GAnalysis::MetZ::mass_strm_p</a>
+<ul>
+<li>gphys-1.4.2 リリースのタイミングで質量流線関数を計算するためのメソッドが GAnalysis::MetZ に整備されていた。</li>
+<li>C で拡張したライブラリで高速化を図っているようである。</li>
+</ul></li>
+</ul>
+<h3><a id="label-3">地図投影で部分的に領域を図示したい</a></h3>
+<ul>
+<li><a href="https://www.gfd-dennou.org/arch/ruby/ml/2008/msg00070.html">[dennou-ruby:002947] Re: map projection in GGraph</a>
+<ul>
+<li>神代さんがまとめてくださっている。</li>
+</ul></li>
+</ul>
+<h3><a id="label-4">GPhysにおける解析ライブラリ</a></h3>
+<ul>
+<li><a href="https://www.gfd-dennou.org/arch/ruby/ml/2008/msg00111.html">[dennou-ruby:002988] Re: gphys analysis methods</a>
+<ul>
+<li>基本的には自分で書くしかないという(当時の)現状。</li>
+</ul></li>
+</ul>
+<h3><a id="label-5">GPhysに新機能を搭載するときの注意事項</a></h3>
+<ul>
+<li><a href="https://www.gfd-dennou.org/arch/ruby/ml/2009/msg00093.html">[dennou-ruby:003116] Re: 質問：gphys</a>
+<ul>
+<li>一般性を重視し、なるべく広い範囲で良い振る舞いをすることが望まれる。</li>
+</ul></li>
+</ul>
+<h3><a id="label-6">DCLExt::datetime_ax の中間的日付ラベルの提案</a></h3>
+<ul>
+<li><a href="https://www.gfd-dennou.org/arch/ruby/ml/2011/msg00065.html">[dennou-ruby:003320] DCLExt::datetime_ax  GGraph::__calendar_ax</a>
+<ul>
+<li>結局これはボツになった?</li>
+</ul></li>
 </ul>
 </section>
 </div>
@@ -109,7 +147,7 @@
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2020/05/15, Since 2020/04/13
+    Lastupdate: 2020/04/15, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

@@ -12,6 +12,7 @@
 #
 #base_path: /library/cc-env/RDWebgen
 #base_path: /home/matsuba/Downloads/RDWebgen
+#base_path: /home/matsuba/git/matsubi0526.github.io
 base_path: https://matsubi0526.github.io
 #
 #=== 下層のディレクトリも再帰的に処理するか?
@@ -62,6 +63,7 @@ since: 2020/04/13
 #
 #css: "/library/cc-env/RDWebgen/rdwebgen.css"
 css: "https://matsubi0526.github.io/rdwebgen.css"
+#css: "/home/matsuba/git/matsubi0526.github.io/rdwebgen.css"
 #css: false
 #
 #== additional HEADER

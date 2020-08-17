@@ -1,8 +1,15 @@
 =begin JA
 = ライブ参戦歴
+* COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
+* ((<家入レオ Streaming Live 2020|URL:https://www.ken-on.co.jp/streaminglive2020/>))
+  * 2020/08/30: Thumva
+* ((<BSいきものがかり DIGITAL FES 2020 結成20周年だよ!! 〜リモートでモットお祝いしまSHOW!!!〜|URL:https://ikimonogakari.com/news/live/11229>))
+  * 2020/09/19: PIA LIVE STREAM
+
+=== 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20)</font>:))
-* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>)) ((:<font color=red>全公演延期</font>:))
+* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>)) ((:<font color=red>全公演延期----> 振替公演決定(2020/07/10)</font>:))
 * 阿部真央 らいぶNo.9 ((:<font color=red>2021年春に延期</font>:))
 * ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>)) ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
@@ -57,6 +64,9 @@
   * 2014/04/20: 愛知・愛知県芸術劇場大ホール
   
 == ((<阿部真央|URL:https://abemao.com/>))
+* ((<UNITED FOR MUSIC -Live 60- 阿部真央|URL:https://abemao.com/news/detail/925>))
+  * 2020/08/05: PIA LIVE STREAM (Shibuya WWW)
+
 * 阿部真央 らいぶ 夏の陣～2019～
   * 2019/07/27: 大阪・大阪城音楽堂
 
@@ -72,6 +82,9 @@
   * 2016/02/11: 愛知・日本ガイシホール
 
 == ((<あいみょん|URL:https://www.aimyong.net/>))
+* ((<AIMYON 弾き語りTOUR 2020 "風とリボン" supported by 淡麗グリーンラベル|URL:https://www.aimyong.net/feature/kazetoribbon>))
+  * 2020/07/05: Youtube Live (日比谷野外大音楽堂)
+
 * ((<AIMYON TOUR 2019 -SIXTH SENSE STORY-【追加公演】|URL:https://www.aimyong.net/news/detail/724>))
   * 2020/02/13: 大阪・大阪城ホール
   

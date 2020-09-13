@@ -2,10 +2,15 @@
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
-* ((<家入レオ Streaming Live 2020|URL:https://www.ken-on.co.jp/streaminglive2020/>))
-  * 2020/08/30: Thumva
 * ((<BSいきものがかり DIGITAL FES 2020 結成20周年だよ!! 〜リモートでモットお祝いしまSHOW!!!〜|URL:https://ikimonogakari.com/news/live/11229>))
   * 2020/09/19: PIA LIVE STREAM
+* ((<B'z SHOWCASE 2020 -5 ERAS 8820- Day1～5|URL:https://bz-vermillion.com/showcase2020/>))
+  * 2020/10/31
+  * 2020/11/07
+  * 2020/11/14
+  * 2020/11/21
+  * 2020/11/28
+* ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20)</font>:))
@@ -34,6 +39,9 @@
   * 2011/12/15: 大阪・京セラドーム大阪
     * 人生で初めて参加したライブ
 == ((<家入レオ|URL:https://www.jvcmusic.co.jp/leo-ieiri/>))
+* ((<家入レオ Streaming Live 2020|URL:https://www.ken-on.co.jp/streaminglive2020/>))
+  * 2020/08/30: Thumva (新木場 STUDIO COAST)
+
 * ((<家入レオ 7th Live Tour 2019 ～DUO～|URL:https://www.ken-on.co.jp/leoieiri_7th/>))
   * 2019/07/19: 兵庫・神戸国際会館 こくさいホール
   * 2019/06/14: 秋田・秋田市文化会館

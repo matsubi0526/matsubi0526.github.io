@@ -2,8 +2,6 @@
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
-* ((<BSいきものがかり DIGITAL FES 2020 結成20周年だよ!! 〜リモートでモットお祝いしまSHOW!!!〜|URL:https://ikimonogakari.com/news/live/11229>))
-  * 2020/09/19: PIA LIVE STREAM
 * ((<B'z SHOWCASE 2020 -5 ERAS 8820- Day1～5|URL:https://bz-vermillion.com/showcase2020/>))
   * 2020/10/31
   * 2020/11/07
@@ -107,6 +105,9 @@
   * 2018/10/28: 大阪・グランキューブ大阪 メインホール
 
 == ((<いきものがかり|URL:https://ikimonogakari.com/>))
+* ((<BSいきものがかり DIGITAL FES 2020 結成20周年だよ!! 〜リモートでモットお祝いしまSHOW!!!〜|URL:https://ikimonogakari.com/news/live/11229>))
+  * 2020/09/19: PIA LIVE STREAM
+
 * いきものがかりの みなさん、こんにつあー!! 2015 ～FUN! FUN! FANFARE!～
   * 2015/07/18: 大阪・大阪城ホール
 

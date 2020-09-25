@@ -35,8 +35,8 @@
     * (({NCL})) に関するTips集があります。
   * ((<南原 優一のホームページ|URL:http://www-aos.eps.s.u-tokyo.ac.jp/~minamihara/>))
 
-== その他のページ
-* ((<Debian のアップグレード|URL:upgrade/index.html>))
+#== その他のページ
+#* ((<Debian のアップグレード|URL:upgrade/index.html>))
 
 == Changelog
 * 2020/05/15: プロフィール、GPhys Tips集を追記、リンク集を更新しました。

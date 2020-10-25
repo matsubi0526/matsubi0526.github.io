@@ -111,6 +111,10 @@
 * いきものがかりの みなさん、こんにつあー!! 2015 ～FUN! FUN! FANFARE!～
   * 2015/07/18: 大阪・大阪城ホール
 
+== ((<聖飢魔II|URL:https://www.seikima-ii.com>))
+* ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
+  * 2020/10/20: 東京・東京国際フォーラムホールA
+  
 == Various Artists
 * ((<Veats Shibuya OPENING EVENT Colorful Records presents "Match Up" Day 1|URL:https://veats.jp/schedule/131/>))
   * 2019/09/20: 東京・Veats Shibuya

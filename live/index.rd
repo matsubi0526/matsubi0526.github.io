@@ -8,7 +8,6 @@
   * 2020/11/14
   * 2020/11/21
   * 2020/11/28
-* ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20)</font>:))
@@ -114,6 +113,7 @@
 == ((<聖飢魔II|URL:https://www.seikima-ii.com>))
 * ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
   * 2020/10/20: 東京・東京国際フォーラムホールA
+  * 2020/12/06: 京都・ロームシアター京都 メインホール
   
 == Various Artists
 * ((<Veats Shibuya OPENING EVENT Colorful Records presents "Match Up" Day 1|URL:https://veats.jp/schedule/131/>))

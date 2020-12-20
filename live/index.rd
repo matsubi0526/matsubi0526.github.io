@@ -2,20 +2,25 @@
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
-* ((<B'z SHOWCASE 2020 -5 ERAS 8820- Day1～5|URL:https://bz-vermillion.com/showcase2020/>))
-  * 2020/10/31
-  * 2020/11/07
-  * 2020/11/14
-  * 2020/11/21
-  * 2020/11/28
 
 === 公演中止または延期分
-* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>)) ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20)</font>:))
-* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>)) ((:<font color=red>全公演延期----> 振替公演決定(2020/07/10)</font>:))
-* 阿部真央 らいぶNo.9 ((:<font color=red>2021年春に延期</font>:))
-* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>)) ((:<font color=red>全公演中止(2020/06/23)</font>:))
+* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
+  * ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20) ---> 全公演中止(2020/12/07)</font>:))
+* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
+  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10)</font>:))
+* 阿部真央 らいぶNo.9
+  * ((:<font color=red>2021年春に延期</font>:))
+* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
+  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == ((<B'z|URL:https://bz-vermillion.com/index.html>))
+* ((<B'z SHOWCASE 2020 -5 ERAS 8820- Day1～5|URL:https://bz-vermillion.com/showcase2020/>))
+  * B'z Party PIA STREAM LIVE (Zepp Haneda)
+    * 2020/10/31 (Day1 1988-1993)
+    * 2020/11/07 (Day2 1994-1998)
+    * 2020/11/14 (Day3 1999-2003)
+    * 2020/11/21 (Day4 2004-2009)
+    * 2020/11/28 (Day5 2010-2020)
 * ((<B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE- |URL:https://bz-vermillion.com/livegym2019/schedule.html>))
   * 2019/07/03: 大阪・大阪城ホール
     * バックスタンド席で間近だったため逆に感動
@@ -112,8 +117,8 @@
 
 == ((<聖飢魔II|URL:https://www.seikima-ii.com>))
 * ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
-  * 2020/10/20: 東京・東京国際フォーラムホールA
   * 2020/12/06: 京都・ロームシアター京都 メインホール
+  * 2020/10/20: 東京・東京国際フォーラムホールA
   
 == Various Artists
 * ((<Veats Shibuya OPENING EVENT Colorful Records presents "Match Up" Day 1|URL:https://veats.jp/schedule/131/>))

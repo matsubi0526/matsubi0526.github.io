@@ -7,7 +7,7 @@
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
   * ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20) ---> 全公演中止(2020/12/07)</font>:))
 * ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
-  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10)</font>:))
+  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10) ---> 全公演中止(2021/01/22)</font>:))
 * 阿部真央 らいぶNo.9
   * ((:<font color=red>2021年春に延期</font>:))
 * ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))

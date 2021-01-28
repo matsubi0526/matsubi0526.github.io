@@ -1,6 +1,8 @@
 =begin JA
 == プロフィール
 * ((<経歴|URL:resume/index.html>))
+== 個人メモ
+* ((<インストールメモ|URL:install/index.html>))
 == GPhys Tips集
 * GPhys/GGraph ユーザーの敷居を低くするための知恵袋を提供することが目的。
 * 地球流体電脳Rubyプロジェクト作成のページ集
@@ -39,6 +41,7 @@
 #* ((<Debian のアップグレード|URL:upgrade/index.html>))
 
 == Changelog
+* 2021/01/28: 個人メモを追記しました。
 * 2020/05/15: プロフィール、GPhys Tips集を追記、リンク集を更新しました。
 * 2020/04/13: HPをオープンしました。コンテンツはこれから増やします。
 

@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="MATSUBA Fumitaka">
+    <title>松葉のWebページにようこそ: Debian GNU/Linux 10 (buster) のインストールメモ</title>
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://matsubi0526.github.io/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+       <script src="https://matsubi0526.github.io/assets/html5shiv/html5shiv.js"></script>
+       <script src="https://matsubi0526.github.io/assets/respond.js/respond.min.js"></script>
+    <![endif]-->
+    
+    <link href="https://matsubi0526.github.io/rdwebgen.css" rel="stylesheet">
+    
+    <script src="https://matsubi0526.github.io/assets/jquery/jquery.min.js"></script>
+    <script src="https://matsubi0526.github.io/assets/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- this is a test of additional header -->
+
+    
+  <style type="text/css">
+   .navbar-nav > li {
+     font-size: 10pt;
+   }
+   .navbar-nav > li > a {
+     padding-left: 2px;
+     padding-right: 2px;
+   }
+   .navbar-nav > li > a:before {
+     content: " / ";
+     color: #ccc;
+   }
+   .navbar-brand > a {
+   }
+   .navbar-form {
+     margin-right: 5px;
+     margin-left: 5px;
+   }
+  </style>
+  </head>
+  <body>
+  <nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header01">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="https://matsubi0526.github.io">松葉のWebページにようこそ</a>
+  </div>
+  <div class="collapse navbar-collapse" id="header01">
+    <ul class="nav navbar-nav">
+      
+      
+      
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+    <li>
+    
+    
+    </li>
+    <li>
+    <form class="navbar-form" role="search"
+                 action="http://google.com/search"
+                 method="get"
+                 onsubmit="$('#siteseach').val($location).attr('host')+$(location).attr('patname')">
+        <input type="hidden" name="q"  value="site:https://matsubi0526.github.io">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="sitesearch" id="sitesearch">
+        
+        <input type="text" name="q"  size="6" class="form-control" placeholder="検索">
+        
+    </form>
+    </li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+    </nav>
+    <div class="container main">
+<div id="main">
+<section class="contents">
+<h1><a id="label-0">Debian GNU/Linux 10 (buster) のインストールメモ</a></h1>
+<h2><a id="label-1">経緯</a></h2>
+<ul>
+<li>Debian jessie を upgrade して buster を使っていましたが、どうも動作が不安定だったので、最初からインストールし直すことにしました。</li>
+<li>気象学研究室時代のインストール大会の手順をベースに、今回のインストールを実施しました(2020/12/29実施)。
+<ul>
+<li><a href="https://www.gfd-dennou.org/member/noda/edu/2017/debian_install.htm.ja">納多さんのページ (Debian GNU Linux 9 (Stretch) のインストール)</a> (2017年春研究室で実施)</li>
+<li><a href="http://www.gfd-dennou.org/arch/eriko/koshu/2016/OS/debian_install.html">西本さんのページ (Debian 8 (Jessie) のインストール) </a> (2016年春研究室で実施)</li>
+</ul></li>
+<li>本ページはこれらの revision (ただし偏見含む) であると理解してください。</li>
+</ul>
+<h3><a id="label-2">参考</a></h3>
+<ul>
+<li>Debian公式HPのインストールガイド
+<ul>
+<li><a href="https://www.debian.org/releases/stable/amd64/">Debian GNU Linux インストールガイド (64bit版)</a></li>
+<li><a href="https://www.debian.org/releases/stable/i386/">Debian GNU Linux インストールガイド (32bit版)</a></li>
+</ul></li>
+</ul>
+<h2><a id="label-3">準備</a></h2>
+<h3><a id="label-4">USBデバイス名の確認</a></h3>
+<ul>
+<li>インストール用のUSBはDebianで作成します。そのあとでUSBから起動して Debian buster をインストールします。</li>
+<li><p>以下のコマンドでUSBデバイス名を確認します。自分の場合、<code>/dev/sdb</code> にあたるようです。</p>
+<pre>$ su
+# fdisk -l</pre></li>
+</ul>
+<h3><a id="label-5">インストールイメージを取得する</a></h3>
+<ul>
+<li>Debian の公式HPからインストールイメージをダウンロードします。wgetで取得します。</li>
+<li><p>2020/12/29時点での最新版は、<code>debian-10.7.0-amd64-netinst.iso</code></p>
+<pre># wget https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.7.0-amd64-netinst.iso</pre></li>
+</ul>
+<h3><a id="label-6">USBメモリにisoファイルを焼く</a></h3>
+<ul>
+<li><p>以下のコマンドを打鍵し、USBメモリに焼きます。sudo では「許可がありません」とエラーが出るので、root で必ず実施します。</p>
+<pre># cat debian-10.7.0-amd64-netinst.iso &gt; /dev/sdb
+# sync</pre></li>
+</ul>
+<h2><a id="label-7">USBメモリからインストール</a></h2>
+<h3><a id="label-8">ネットワークに接続する</a></h3>
+<p>無線LANで当初試したが、DHCPの自動設定で失敗したので有線LANが無難です。</p>
+<h3><a id="label-9">USB挿してPC起動</a></h3>
+<p>途中で聞かれる質問には以下のように回答しました。</p>
+<ul>
+<li>Install</li>
+<li>Language: <code>日本語</code></li>
+<li>場所の選択: <code>日本</code></li>
+<li>キーボードの設定: <code>日本</code></li>
+<li>ネットワークハードウェアの検出: (見つからないファームウェアがあった場合、その名前をメモしてから) <code>いいえ</code>
+<ul>
+<li><p>私の環境では以下の2つが見つかりました</p>
+<pre>iwlwifi-6050-5.ucode
+iwlwifi-6050-4.ucode</pre></li>
+</ul></li>
+<li>ネットワークファームウェアの検出 (聞かれないかも): <code>いいえ</code></li>
+<li>プライマリネットワークインターフェース (聞かれないかも): <code>eth0</code></li>
+<li>ホスト名: お好きなものに (今回は<code>debian</code>とした)</li>
+<li>ドメイン名: <code>kugi-mete</code> (別になんでもよいだろうが、研究室時代の名残)</li>
+<li>root のパスワード:</li>
+<li>新しいユーザーの本名:</li>
+<li>アカウントのユーザー名: <code>matsuba</code> (ここは各自）</li>
+<li>新しいユーザーのパスワード: (rootのとは一緒にしない)</li>
+<li>パーティショニングの方法: <code>ガイドーディスク全体を使う</code> (お好きに)</li>
+<li>パーティショニングするディスクの選択: <code>SCSI1</code> (HDDのほうを選択)</li>
+<li>ディスクのパーティショニング: <code>すべてのファイルを1つのパーティションに</code>
+<ul>
+<li>変更内容を確認して、<code>パーティショニングの終了とディスクへの変更の書き込み</code></li>
+<li>「ディスクに変更を書き込みますか？」に<code>はい</code></li>
+<li>(少し時間がかかります)</li>
+</ul></li>
+<li>Debianアーカイブミラーの国: <code>日本</code></li>
+<li>Debianアーカイブミラー: <code>dennou-k.gfd-dennou.org</code></li>
+<li>httpプロキシの情報: <code>なし</code> (空白で続ける)</li>
+<li>Debianパッケージ利用調査に参加しますか: (お好きに)</li>
+<li>インストールするソフトウェアの選択:
+<ul>
+<li>Debianデスクトップ環境: <code>GNOME</code> (お好きに)</li>
+<li>プリンタサーバ</li>
+<li>SSHサーバ (<font color=red>デフォルトでは選択されていないので注意</font>)</li>
+<li>標準システムユーティリティ</li>
+</ul></li>
+<li>(少し時間がかかります。マシンや選択したソフトウェアに依りますが、30分程度)</li>
+<li>ハードディスクへのGRUBブートローダのインストール: <code>はい</code></li>
+<li>ブートローダをインストールするデバイス: <code>/dev/sda</code> (HDDのほう)</li>
+</ul>
+<h3><a id="label-10">インストール完了</a></h3>
+<p>USBを引き抜いてから再起動します (USB挿しっぱなしだと再びインストーラーが起動してしまいます)</p>
+<h2><a id="label-11">基本情報の設定</a></h2>
+<h3><a id="label-12">端末の確認</a></h3>
+<ul>
+<li>画面左上の「アクティビティ」</li>
+<li>検索ワードで「terminal」と入力すると「端末」が候補に表示されるので選択
+<ul>
+<li>(余談) 検索ワードで入力する際に、何故か日本語入力ができなかったので、「端末」の文字列をコピペして貼り付けました・・・</li>
+<li>まさか「terminal」と入力すればよかったとは。。。</li>
+</ul></li>
+</ul>
+<h3><a id="label-13">rootになれるか確認</a></h3>
+<ul>
+<li><p>以下のコマンドを打ち、端末の "$" の部分が "#" に変わったら root になっています。root から抜ける際には <code>exit</code> で。</p>
+<pre>$ su -</pre></li>
+</ul>
+<h3><a id="label-14">Emacsのインストール</a></h3>
+<ul>
+<li><p>エディタとして普段emacsを使用しているので、まずはその準備から。</p>
+<pre># apt install -y emacs</pre></li>
+<li><p>起動するデフォルトのエディタをemacsにしておきたいので、通常ユーザーに戻って<code>~/.bashrc</code>に以下のように書き込みます。<code>-nw</code>は no windowのオプションです (私はこのやり方で使用しています)</p>
+<pre>export EDITOR=/usr/bin/"emacs -nw"</pre></li>
+<li><p><code>~/.bashrc</code>の書き換えが終わったら、設定を反映させます。</p>
+<pre>$ emacs -nw ~/.bashrc     # ~/.bashrc への書き込み
+$ source ~/.bashrc        # 設定の反映</pre></li>
+</ul>
+<h3><a id="label-15">sudoの設定</a></h3>
+<ul>
+<li><p>毎回rootになるのは面倒なので、sudoできるようにします。</p>
+<pre># apt install -y sudo
+# visudo</pre>
+<ul>
+<li><code>visudo</code>起動時には違うエディタが起動するのですが、ここだけ我慢します。 </li>
+</ul></li>
+<li><p><code># User privilege specification</code>の行を探し、次のように書き換えます。</p>
+<ul>
+<li><code>username</code>とある部分は自分のアカウント名に読み替えてください。</li>
+</ul>
+<pre># User privilege specification
+root       ALL=(ALL:ALL) ALL
+username   ALL=(ALL:ALL) ALL
+Defaults:username  !env_reset</pre></li>
+</ul>
+<h3><a id="label-16">aptの設定</a></h3>
+<ul>
+<li><p>root になったうえで<code>/etc/apt/source.list</code> を開きます。sudo で作業しても同じことです（# とある部分は $ sudo に読み替えてください）</p>
+<pre># emacs -nw /etc/apt/source.list</pre></li>
+<li><p>次のように書き直します。<code>contrib</code> と <code>non-free</code> を付け足します。</p>
+<pre>deb http://dennou-k.gfd-dennou.org/debian/ buster main contrib non-free
+deb-src http://dennou-k.gfd-dennou.org/debian/ buster main contrib non-free
+
+deb http://security.debian.org/debian-security buster/updates main contrib non-free
+deb-src http://security.debian.org/debian-security buster/updates main contrib non-free</pre></li>
+<li><p>電脳製品(DCLなど)を取得するために配布先を付け足します。</p>
+<pre>deb http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main
+deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main</pre></li>
+<li><p>利用するには公開鍵の登録が必要なので、<a href="http://www.gfd-dennou.org/arch/cc-env/debian-dennou/index.htm.ja">地球流体電脳倶楽部謹製品 Debian パッケージ集</a>を参考に、以下のように鍵を登録します。</p>
+<pre># apt-get install debian-keyring
+# gpg --keyring /usr/share/keyrings/debian-maintainers.gpg --export -a 891D7E07 | apt-key add -</pre></li>
+<li><p>最新版のソフトウェアにアップデートするために以下を実行します。</p>
+<pre># apt update
+# apt upgrade</pre></li>
+</ul>
+<h3><a id="label-17">ホームディレクトリのディレクトリ名を英語に</a></h3>
+<ul>
+<li><p>コマンドラインで以下のようにします。</p>
+<pre>$ LANG=C xdg-user-dirs-gtk-update</pre></li>
+<li>「次回から表示しない」(英語で Don't ask me this again と表示されるかもしれません）にチェックを入れた上で Update Names を選択します。</li>
+</ul>
+<h3><a id="label-18">ファームウェアのインストール (無線LAN関係)</a></h3>
+<ul>
+<li><p>見つからなかったファームウェア <code>iwlwifi-6050-5.ucode</code> について、<a href="https://www.debian.org/distrib/packages">&lt;URL:https://www.debian.org/distrib/packages&gt;</a> で適合するパッケージを検索すると <code>firmware-iwlwifi</code> と分かりましたので、これをインストールします(無線LANに関するファームウェアでした)。</p>
+<pre># apt install -y firmware-iwlwifi</pre></li>
+<li>PCを再起動すると、無線LANが使えるようになりました。</li>
+</ul>
+<h3><a id="label-19">プリンタの設定</a></h3>
+<ul>
+<li>これは別のページで手順を記載します (準備中)。
+<ul>
+<li>私の環境では Brother DCP-J715N プリンタに適合させる必要があります (一般的な話ではありません)。</li>
+</ul></li>
+</ul>
+<h2><a id="label-20">データ解析関係ソフトウェアのインストール</a></h2>
+<h3><a id="label-21">プログラミング言語</a></h3>
+<ul>
+<li><p>Fortranコンパイラ</p>
+<pre># apt install -y gfortran</pre></li>
+<li><p>Cコンパイラ</p>
+<pre># apt install -y gcc</pre></li>
+<li><p>Rubyインタープリター</p>
+<pre># apt install -y ruby</pre></li>
+</ul>
+<h3><a id="label-22">データフォーマット</a></h3>
+<ul>
+<li><p>NetCDF</p>
+<pre># apt install -y netcdf-bin libnetcdf-dev netcdf-doc</pre></li>
+</ul>
+<h3><a id="label-23">作図・データ解析 (電脳製品)</a></h3>
+<ul>
+<li><p>Fortran版DCL・GPhys</p>
+<pre># apt install -y dcl-f77
+# apt install -y gphys</pre>
+<ul>
+<li><code>RubyDCL</code> は <code>GPhys</code> をインストールした際に一緒にインストールされると思います。これの詳しい使い方は別ページにて。</li>
+</ul></li>
+</ul>
+<h3><a id="label-24">数値モデル用ライブラリ (電脳製品)</a></h3>
+<ul>
+<li><p>ISPACK・SPMODEL</p>
+<pre># apt install -y ispack
+# apt install -y spml</pre></li>
+</ul>
+<h2><a id="label-25">文書関係ソフトウェアのインストール</a></h2>
+<h3><a id="label-26">テキストエディタ</a></h3>
+<ul>
+<li><p>yatex: emacs での TeX モード。TeX書くときに便利。(結構パッケージ取得するのでインストールに時間かかります)</p>
+<pre># apt install -y yatex</pre></li>
+</ul>
+<h3><a id="label-27">ビューア</a></h3>
+<ul>
+<li><p>EPSファイルやPDFの閲覧で必要</p>
+<pre># apt install -y evince
+# apt install -y gv</pre></li>
+</ul>
+<h3><a id="label-28">LaTeX</a></h3>
+<ul>
+<li><p>TeXで文書を書く</p>
+<pre># apt install -y texlive-lang-cjk   # 日本語環境
+# apt install -y xdvik-ja
+# apt install -y texlive-latex-extra</pre></li>
+</ul>
+<h2><a id="label-29">さいごに</a></h2>
+<ul>
+<li>これ以外にも必要となるパッケージが出てくると思いますが、その都度、パッケージを検索して <code># apt install -y パッケージ名</code> と対処しましょう。</li>
+</ul>
+<p><a href="../index.html">一つ上に戻る</a></p>
+<p><a href="../../index.html">トップページに戻る</a></p>
+</section>
+</div>
+  </div> <!-- /.container main -->
+  <div class="container main">
+  <footer>
+    <p>
+    &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
+    Lastupdate: 2021/01/28, Since 2020/04/13
+    </p>
+  </footer>
+  </div> <!-- /.container main -->
+  </body>
+</html>
+

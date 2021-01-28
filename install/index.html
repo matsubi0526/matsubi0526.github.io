@@ -86,49 +86,10 @@
 <section class="contents">
 <h2><a id="label-0">インストールメモ</a></h2>
 <ul>
-<li>パッケージのインストールは <code>apt-get install パッケージ名</code> で実行する（root権限）。</li>
-<li>パッケージの検索は <code>apt-cache search キーワード</code> で実行する。</li>
-<li>インストールした deb パッケージの詳細は <code>dpkg -s パッケージ名</code> で確認できる。</li>
+<li><a href="./debian/index.html">Debian buster のインストール</a></li>
 </ul>
-<h3><a id="label-1">テキストエディタ</a></h3>
-<h4><a id="label-2">LibreOffice</a></h4>
-<p>ドキュメント作成、表計算、プレゼンテーション資料作成などに使う。</p>
-<pre>sudo apt-get install libreoffice</pre>
-<h4><a id="label-3">vim</a></h4>
-<pre>sudo apt-get install vim</pre>
-<h4><a id="label-4">emacs</a></h4>
-<pre>sudo apt-get install emacs
-sudo apt-get install yatex</pre>
-<ul>
-<li>yatex: emacsでのTeXモード。TeX書くときに便利（インストールに時間かかります）</li>
-<li><p><code>less</code> で編集モードに移行するときはデフォルトは<code>vim</code>が起動するので、<code>emacs</code>にするには以下の一文を<code>.bashrc</code>に記載しておく。</p>
-<pre>export EDITOR=/usr/bin/"emacs -nw"</pre></li>
-</ul>
-<h3><a id="label-5"><a href="http://www.gfd-dennou.org/arch/cc-env/debian-dennou/">地球流体電脳倶楽部謹製品 Debian パッケージ集</a></a></h3>
-<ul>
-<li>地球流体電脳倶楽部の謹製品の Debian パッケージのインストールは上記リンク先から。</li>
-</ul>
-<h3><a id="label-6">データ解析関係のソフトウェアインストール</a></h3>
-<h4><a id="label-7">Fortran</a></h4>
-<pre>sudo apt-get install gfortran</pre>
-<h4><a id="label-8">Cコンパイラ</a></h4>
-<pre>sudo apt-get install gcc</pre>
-<h4><a id="label-9">Rubyインタープリター</a></h4>
-<pre>sudo apt-get install ruby</pre>
-<h4><a id="label-10">NetCDF</a></h4>
-<pre>sudo apt-get install netcdf-bin libnetcdf-dev netcdf-doc</pre>
-<h4><a id="label-11">数値モデル用ライブラリ(電脳製品)</a></h4>
-<pre>sudo apt-get install ispack spml</pre>
-<h4><a id="label-12">作図・データ解析(電脳製品)</a></h4>
-<pre>sudo apt-get install dcl-f77
-sudo apt-get install gphys</pre>
-<h4><a id="label-13">作図・データ解析(その他)</a></h4>
-<p>GrADS</p>
-<pre>sudo apt-get install grads</pre>
-<p>Gnuplot</p>
-<pre>sudo apt-get install gnuplot</pre>
-<p>NCL</p>
-<pre>sudo apt-get install ncl-ncarg ncl-tools</pre>
+<p><a href="../index.html">一つ上に戻る</a></p>
+<p><a href="../index.html">トップページに戻る</a></p>
 </section>
 </div>
   </div> <!-- /.container main -->
@@ -136,7 +97,7 @@ sudo apt-get install gphys</pre>
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2020/12/30, Since 2020/04/13
+    Lastupdate: 2021/01/28, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

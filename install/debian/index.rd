@@ -2,8 +2,8 @@
 
 = Debian GNU/Linux 10 (buster) のインストールメモ
 == 経緯
-* Debian jessie を upgrade して buster を使っていましたが、どうも動作が不安定だったので、最初からインストールし直すことにしました。
-* 気象学研究室時代のインストール大会の手順をベースに、今回のインストールを実施しました(2020/12/29実施)。
+* Debian stretch を upgrade して buster を使っていましたが、どうも動作が不安定だったので、最初からインストールし直すことにしました。
+* 気象学研究室時代のインストール大会の手順をベースに、今回のインストールを実施しました (2020/12/30実施)。
    * ((<納多さんのページ (Debian GNU Linux 9 (Stretch) のインストール)|URL:https://www.gfd-dennou.org/member/noda/edu/2017/debian_install.htm.ja>)) (2017年春研究室で実施)
    * ((<西本さんのページ (Debian 8 (Jessie) のインストール) |URL:http://www.gfd-dennou.org/arch/eriko/koshu/2016/OS/debian_install.html>)) (2016年春研究室で実施)
 * 本ページはこれらの revision (ただし偏見含む) であると理解してください。
@@ -21,7 +21,7 @@
 
 === インストールイメージを取得する
 * Debian の公式HPからインストールイメージをダウンロードします。wgetで取得します。
-* 2020/12/29時点での最新版は、(({debian-10.7.0-amd64-netinst.iso}))
+* 2020/12/30時点での最新版は、(({debian-10.7.0-amd64-netinst.iso}))
    # wget https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.7.0-amd64-netinst.iso
 
 === USBメモリにisoファイルを焼く

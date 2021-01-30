@@ -123,10 +123,15 @@
 <pre># cat debian-10.7.0-amd64-netinst.iso &gt; /dev/sdb
 # sync</pre></li>
 </ul>
-<h2><a id="label-7">USBメモリからインストール</a></h2>
-<h3><a id="label-8">ネットワークに接続する</a></h3>
+<h3><a id="label-7">PCのドライブ読み込み順の設定</a></h3>
+<ul>
+<li>PCのBIOSで設定します。使っている機種によってBIOS起動の方法は異なります。</li>
+<li>USBドライブから優先的に起動するようにします。</li>
+</ul>
+<h2><a id="label-8">USBメモリからインストール</a></h2>
+<h3><a id="label-9">ネットワークに接続する</a></h3>
 <p>無線LANで当初試したが、DHCPの自動設定で失敗したので有線LANが無難です。</p>
-<h3><a id="label-9">USB挿してPC起動</a></h3>
+<h3><a id="label-10">USB挿してPC起動</a></h3>
 <p>途中で聞かれる質問には以下のように回答しました。</p>
 <ul>
 <li>Install</li>
@@ -170,10 +175,10 @@ iwlwifi-6050-4.ucode</pre></li>
 <li>ハードディスクへのGRUBブートローダのインストール: <code>はい</code></li>
 <li>ブートローダをインストールするデバイス: <code>/dev/sda</code> (HDDのほう)</li>
 </ul>
-<h3><a id="label-10">インストール完了</a></h3>
+<h3><a id="label-11">インストール完了</a></h3>
 <p>USBを引き抜いてから再起動します (USB挿しっぱなしだと再びインストーラーが起動してしまいます)</p>
-<h2><a id="label-11">基本情報の設定</a></h2>
-<h3><a id="label-12">端末の確認</a></h3>
+<h2><a id="label-12">基本情報の設定</a></h2>
+<h3><a id="label-13">端末の確認</a></h3>
 <ul>
 <li>画面左上の「アクティビティ」</li>
 <li>検索ワードで「terminal」と入力すると「端末」が候補に表示されるので選択
@@ -182,12 +187,12 @@ iwlwifi-6050-4.ucode</pre></li>
 <li>まさか「terminal」と入力すればよかったとは。。。</li>
 </ul></li>
 </ul>
-<h3><a id="label-13">rootになれるか確認</a></h3>
+<h3><a id="label-14">rootになれるか確認</a></h3>
 <ul>
 <li><p>以下のコマンドを打ち、端末の "$" の部分が "#" に変わったら root になっています。root から抜ける際には <code>exit</code> で。</p>
 <pre>$ su -</pre></li>
 </ul>
-<h3><a id="label-14">Emacsのインストール</a></h3>
+<h3><a id="label-15">Emacsのインストール</a></h3>
 <ul>
 <li><p>エディタとして普段emacsを使用しているので、まずはその準備から。</p>
 <pre># apt install -y emacs</pre></li>
@@ -197,7 +202,7 @@ iwlwifi-6050-4.ucode</pre></li>
 <pre>$ emacs -nw ~/.bashrc     # ~/.bashrc への書き込み
 $ source ~/.bashrc        # 設定の反映</pre></li>
 </ul>
-<h3><a id="label-15">sudoの設定</a></h3>
+<h3><a id="label-16">sudoの設定</a></h3>
 <ul>
 <li><p>毎回rootになるのは面倒なので、sudoできるようにします。</p>
 <pre># apt install -y sudo
@@ -214,7 +219,7 @@ root       ALL=(ALL:ALL) ALL
 username   ALL=(ALL:ALL) ALL
 Defaults:username  !env_reset</pre></li>
 </ul>
-<h3><a id="label-16">aptの設定</a></h3>
+<h3><a id="label-17">aptの設定</a></h3>
 <ul>
 <li><p>root になったうえで<code>/etc/apt/source.list</code> を開きます。sudo で作業しても同じことです（# とある部分は $ sudo に読み替えてください）</p>
 <pre># emacs -nw /etc/apt/source.list</pre></li>
@@ -234,27 +239,27 @@ deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main
 <pre># apt update
 # apt upgrade</pre></li>
 </ul>
-<h3><a id="label-17">ホームディレクトリのディレクトリ名を英語に</a></h3>
+<h3><a id="label-18">ホームディレクトリのディレクトリ名を英語に</a></h3>
 <ul>
 <li><p>コマンドラインで以下のようにします。</p>
 <pre>$ LANG=C xdg-user-dirs-gtk-update</pre></li>
 <li>「次回から表示しない」(英語で Don't ask me this again と表示されるかもしれません）にチェックを入れた上で Update Names を選択します。</li>
 </ul>
-<h3><a id="label-18">ファームウェアのインストール (無線LAN関係)</a></h3>
+<h3><a id="label-19">ファームウェアのインストール (無線LAN関係)</a></h3>
 <ul>
 <li><p>見つからなかったファームウェア <code>iwlwifi-6050-5.ucode</code> について、<a href="https://www.debian.org/distrib/packages">&lt;URL:https://www.debian.org/distrib/packages&gt;</a> で適合するパッケージを検索すると <code>firmware-iwlwifi</code> と分かりましたので、これをインストールします(無線LANに関するファームウェアでした)。</p>
 <pre># apt install -y firmware-iwlwifi</pre></li>
 <li>PCを再起動すると、無線LANが使えるようになりました。</li>
 </ul>
-<h3><a id="label-19">プリンタの設定</a></h3>
+<h3><a id="label-20">プリンタの設定</a></h3>
 <ul>
 <li>これは別のページで手順を記載します (準備中)。
 <ul>
 <li>私の環境では Brother DCP-J715N プリンタに適合させる必要があります (一般的な話ではありません)。</li>
 </ul></li>
 </ul>
-<h2><a id="label-20">データ解析関係ソフトウェアのインストール</a></h2>
-<h3><a id="label-21">プログラミング言語</a></h3>
+<h2><a id="label-21">データ解析関係ソフトウェアのインストール</a></h2>
+<h3><a id="label-22">プログラミング言語</a></h3>
 <ul>
 <li><p>Fortranコンパイラ</p>
 <pre># apt install -y gfortran</pre></li>
@@ -263,12 +268,12 @@ deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main
 <li><p>Rubyインタープリター</p>
 <pre># apt install -y ruby</pre></li>
 </ul>
-<h3><a id="label-22">データフォーマット</a></h3>
+<h3><a id="label-23">データフォーマット</a></h3>
 <ul>
 <li><p>NetCDF</p>
 <pre># apt install -y netcdf-bin libnetcdf-dev netcdf-doc</pre></li>
 </ul>
-<h3><a id="label-23">作図・データ解析 (電脳製品)</a></h3>
+<h3><a id="label-24">作図・データ解析 (電脳製品)</a></h3>
 <ul>
 <li><p>Fortran版DCL・GPhys</p>
 <pre># apt install -y dcl-f77
@@ -277,32 +282,32 @@ deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main
 <li><code>RubyDCL</code> は <code>GPhys</code> をインストールした際に一緒にインストールされると思います。これの詳しい使い方は別ページにて。</li>
 </ul></li>
 </ul>
-<h3><a id="label-24">数値モデル用ライブラリ (電脳製品)</a></h3>
+<h3><a id="label-25">数値モデル用ライブラリ (電脳製品)</a></h3>
 <ul>
 <li><p>ISPACK・SPMODEL</p>
 <pre># apt install -y ispack
 # apt install -y spml</pre></li>
 </ul>
-<h2><a id="label-25">文書関係ソフトウェアのインストール</a></h2>
-<h3><a id="label-26">テキストエディタ</a></h3>
+<h2><a id="label-26">文書関係ソフトウェアのインストール</a></h2>
+<h3><a id="label-27">テキストエディタ</a></h3>
 <ul>
 <li><p>yatex: emacs での TeX モード。TeX書くときに便利。(結構パッケージ取得するのでインストールに時間かかります)</p>
 <pre># apt install -y yatex</pre></li>
 </ul>
-<h3><a id="label-27">ビューア</a></h3>
+<h3><a id="label-28">ビューア</a></h3>
 <ul>
 <li><p>EPSファイルやPDFの閲覧で必要</p>
 <pre># apt install -y evince
 # apt install -y gv</pre></li>
 </ul>
-<h3><a id="label-28">LaTeX</a></h3>
+<h3><a id="label-29">LaTeX</a></h3>
 <ul>
 <li><p>TeXで文書を書く</p>
 <pre># apt install -y texlive-lang-cjk   # 日本語環境
 # apt install -y xdvik-ja
 # apt install -y texlive-latex-extra</pre></li>
 </ul>
-<h2><a id="label-29">さいごに</a></h2>
+<h2><a id="label-30">さいごに</a></h2>
 <ul>
 <li>これ以外にも必要となるパッケージが出てくると思いますが、その都度、パッケージを検索して <code># apt install -y パッケージ名</code> と対処しましょう。</li>
 </ul>
@@ -315,7 +320,7 @@ deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou buster main
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2021/01/28, Since 2020/04/13
+    Lastupdate: 2021/01/30, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

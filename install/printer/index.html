@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="MATSUBA Fumitaka">
+    <title>松葉のWebページにようこそ: Debian busterでBrotherプリンタを使用する</title>
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://matsubi0526.github.io/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="all">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+       <script src="https://matsubi0526.github.io/assets/html5shiv/html5shiv.js"></script>
+       <script src="https://matsubi0526.github.io/assets/respond.js/respond.min.js"></script>
+    <![endif]-->
+    
+    <link href="https://matsubi0526.github.io/rdwebgen.css" rel="stylesheet">
+    
+    <script src="https://matsubi0526.github.io/assets/jquery/jquery.min.js"></script>
+    <script src="https://matsubi0526.github.io/assets/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- this is a test of additional header -->
+
+    
+  <style type="text/css">
+   .navbar-nav > li {
+     font-size: 10pt;
+   }
+   .navbar-nav > li > a {
+     padding-left: 2px;
+     padding-right: 2px;
+   }
+   .navbar-nav > li > a:before {
+     content: " / ";
+     color: #ccc;
+   }
+   .navbar-brand > a {
+   }
+   .navbar-form {
+     margin-right: 5px;
+     margin-left: 5px;
+   }
+  </style>
+  </head>
+  <body>
+  <nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header01">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="https://matsubi0526.github.io">松葉のWebページにようこそ</a>
+  </div>
+  <div class="collapse navbar-collapse" id="header01">
+    <ul class="nav navbar-nav">
+      
+      
+      
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+    <li>
+    
+    
+    </li>
+    <li>
+    <form class="navbar-form" role="search"
+                 action="http://google.com/search"
+                 method="get"
+                 onsubmit="$('#siteseach').val($location).attr('host')+$(location).attr('patname')">
+        <input type="hidden" name="q"  value="site:https://matsubi0526.github.io">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="sitesearch" id="sitesearch">
+        
+        <input type="text" name="q"  size="6" class="form-control" placeholder="検索">
+        
+    </form>
+    </li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+    </nav>
+    <div class="container main">
+<div id="main">
+<section class="contents">
+<h1><a id="label-0">Debian busterでBrotherプリンタを使用する</a></h1>
+<h2><a id="label-1">手順について</a></h2>
+<ul>
+<li>およそ以下のページで説明されている手順を踏襲します。
+<ul>
+<li>LinuxでBrother製プリンターを使う <a href="http://note.kurodigi.com/post-0-30/">&lt;URL:http://note.kurodigi.com/post-0-30/&gt;</a></li>
+<li>自分の環境と違うところを中心にメモします。</li>
+</ul></li>
+</ul>
+<h2><a id="label-2">環境</a></h2>
+<ul>
+<li>自分の環境は次のとおりです。</li>
+<li><p>プリンタ側の無線LAN設定はすでに設定済みのものとします。</p>
+<pre>プリンタ: Brother DCP-J715N
+OS: Debian buster (10.7.0)
+プリンタの接続: 無線LAN</pre></li>
+</ul>
+<h2><a id="label-3">1. 準備</a></h2>
+<h3><a id="label-4">1.フォルダの構成</a></h3>
+<ul>
+<li><p><code>/var/spool/lpd</code> はなかったので作成しました。</p>
+<pre>$ sudo mkdir -p /var/spool/lpd</pre></li>
+<li>一方、<code>/usr/share/cups/model</code> はあったので何もせず。</li>
+</ul>
+<h3><a id="label-5">2. 32bit ライブラリのインストール</a></h3>
+<ul>
+<li><p>手順どおりに以下のコマンドを実行します。</p>
+<pre>$ sudo apt install -y ia32-libs</pre></li>
+<li><p>ところが、<code>ia32-libs</code> は有効ではないと言われてしまいます。</p>
+<pre>$ sudo apt install -y ia32-libs
+パッケージリストを読み込んでいます... 完了
+依存関係ツリーを作成しています
+状態情報を読み取っています... 完了
+パッケージ ia32-libs は使用できませんが、別のパッケージから参照されます。
+これは、パッケージが欠落しているか、廃止されたか、または別のソース
+からのみ利用可能であることを意味します。
+しかし、以下のパッケージが置き換えます:
+lib32z1
+
+E: パッケージ 'ia32-libs' にはインストール候補がありません</pre></li>
+<li><p>そこで上記で指示されたパッケージをすることにします。</p>
+<pre>$ sudo apt install -y lib32z1
+パッケージリストを読み込んでいます... 完了
+依存関係ツリーを作成しています
+状態情報を読み取っています... 完了
+以下の追加パッケージがインストールされます:
+libc6-i386
+以下のパッケージが新たにインストールされます:
+lib32z1 libc6-i386</pre></li>
+</ul>
+<h3><a id="label-6">3. /usr/lib/cups/filter は存在していたので省略</a></h3>
+<h2><a id="label-7">2. プリンタのドライバ</a></h2>
+<ul>
+<li>Brother の HP からダウンロード（<a href="https://support.brother.co.jp/j/b/downloadtop.aspx?c=jp&amp;lang=ja&amp;prod=dcpj715n">ソフトウェアダウンロード(DCP-J715N)</a>）</li>
+<li>今回使用したのは、以下の2つのドライバです
+<ul>
+<li>LPR プリンタードライバー (deb package): <code>dcpl715nlpr-1.1.3-1.i386.deb</code></li>
+<li>CUPSwrapper プリンタードライバー (deb package): <code>dcpl715ncupswrapper-1.1.3-1.i386.deb</code></li>
+</ul></li>
+</ul>
+<h2><a id="label-8">3. gdebi のインストール</a></h2>
+<ul>
+<li><p>gdebi が入っていなかったので、まずはインストールします。</p>
+<pre>$ sudo apt install -y gdebi</pre></li>
+<li><p>その後、ダウンロードしたドライバをインストールしようとしてみますが。。。</p>
+<pre>$ sudo gdebi dcpj715nlpr-1.1.3-1.i386.deb
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+このパッケージはインストールできません
+Wrong architecture 'i386' -- Run dpkg --add-architecture to add it and update afterwards</pre></li>
+<li><p>そこで調べてみると、以下のようなページがヒットしました。</p>
+<ul>
+<li><a href="https://stackoverflow.com/questions/30236342/debian-stretch-and-jessie-32-bit-libraries">&lt;URL:https://stackoverflow.com/questions/30236342/debian-stretch-and-jessie-32-bit-libraries&gt;</a></li>
+<li>その指示のとおりに打鍵してみます。
+<ul>
+<li>64bit版のPCに、32bit用のドライバを入れようとしたのでまずかったようです。</li>
+</ul></li>
+</ul>
+<pre>$ sudo dpkg --add-architecture i386
+$ sudo apt update
+$ sudo apt install -y build-essential gcc-multilib rpm libstdc++6:i386 libgcc1:i386 zlib1g:i386 libncurses5:i386</pre></li>
+<li>再度 gdebi によるインストールを実施するとうまくいきました。</li>
+<li><p>後者の cups のほうをインストールした時点でプリンタが追加されました。</p>
+<pre>$ sudo gdebi dcpl715nlpr-1.1.3-1.i386.deb
+$ sudo gdebi dcpl715ncupswrapper-1.1.3-1.i386.deb</pre></li>
+<li>しかし、自動で追加されたほうではテスト印刷が出来なかったので、CUPSでちゃんと設定しないといけないようです。</li>
+<li>localhost:631 で CUPSページを開き、プリンタの追加から設定します。</li>
+<li>これで、テストページの印刷もできました。お疲れ様でした。</li>
+</ul>
+<div style="text-align:center;"> 
+<img src="img1.png" height="300">
+</div>
+
+<p><a href="../index.html">一つ上に戻る</a></p>
+<p><a href="../../index.html">トップページに戻る</a></p>
+</section>
+</div>
+  </div> <!-- /.container main -->
+  <div class="container main">
+  <footer>
+    <p>
+    &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
+    Lastupdate: 2021/01/30, Since 2020/04/13
+    </p>
+  </footer>
+  </div> <!-- /.container main -->
+  </body>
+</html>
+

@@ -10,14 +10,14 @@
   * 卒業論文: Borneo Vortex に関する数値実験
   * 修士論文: ((<気象庁非静力学モデルを用いた数値実験によるボルネオ渦の研究|URL:http://www-mete.kugi.kyoto-u.ac.jp/yoden/education/pdfs/M2016-0530271017-matsuba.pdf>))
 
-#=== 職歴
-#* 2017/04 - 2018/03 : ((<岡山地方気象台|URL:https://www.jma-net.go.jp/okayama/>))
-#* 2018/04 - 2020/03 : ((<大阪管区気象台|URL:https://www.jma-net.go.jp/osaka/>)) 総務部業務課
-#* 2020/04 - 2020/09 : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 予報部情報通信課
-#* 2020/10 - : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 情報基盤部情報通信基盤課（組織改編による）
+=== 職歴
+* 2017/04 - 2018/03 : ((<岡山地方気象台|URL:https://www.jma-net.go.jp/okayama/>))
+* 2018/04 - 2020/03 : ((<大阪管区気象台|URL:https://www.jma-net.go.jp/osaka/>)) 総務部 業務課
+* 2020/04 - 2020/09 : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 予報部 情報通信課
+* 2020/10 - : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 情報基盤部 情報通信基盤課（組織改編による）
+
 === 趣味
 * ライブに行くこと（((<ライブ参戦歴|URL:../live/index.html>))）
-
 
 ((<一つ上に戻る|URL:../index.html>))
 

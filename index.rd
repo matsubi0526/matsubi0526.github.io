@@ -23,9 +23,10 @@
   * ((<GPhys, GGraphチュートリアル(旧)|URL:http://ruby.gfd-dennou.org/products/gphys/tutorial.old/body-j.html>))
   * ((<Gphysライブラリマニュアル日本語版（非公式）|URL:https://seesaawiki.jp/gphys/>))
     * ((<DCL標準添付カラーマップ|URL:http://www.gfd-dennou.org/arch/koshiro/comp/dcl/clrmap/>))
+    * ((<付録|URL:http://ruby.gfd-dennou.org/products/ruby-dcl/ruby-dcl-doc/grph1/node183.html>)) (ラインタイプ、フォントテーブル、トーンパターン)
 
 * 大学関係
-  * ((<京都大学 気象学研究室|URL:http://www-mete.kugi.kyoto-u.ac.jp/index.html>))
+  * ((<京都大学 気象学研究室|URL:http://www-mete.kugi.kyoto-u.ac.jp>))
   * ((<京都大学 物理気候学研究室|URL:http://www-clim.kugi.kyoto-u.ac.jp/index.html>))
 
 * 知り合いの方々の個人ページ

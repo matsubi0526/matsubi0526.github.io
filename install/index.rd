@@ -1,10 +1,10 @@
 =begin JA
-== ƒCƒ“ƒXƒg[ƒ‹ƒƒ‚
-* ((<Debian buster ‚ÌƒCƒ“ƒXƒg[ƒ‹|URL:./debian/index.html>))
-* ((<Debian buster ‚ÅBrotherƒvƒŠƒ“ƒ^‚ðŽg—p‚·‚é|URL:./printer/index.html>))
+== ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ¡ãƒ¢
+* ((<Debian buster ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«|URL:./debian/index.html>))
+* ((<Debian buster ã§Brotherãƒ—ãƒªãƒ³ã‚¿ã‚’ä½¿ç”¨ã™ã‚‹|URL:./printer/index.html>))
 
 
-((<ˆê‚Âã‚É–ß‚é|URL:../index.html>))
+((<ä¸€ã¤ä¸Šã«æˆ»ã‚‹|URL:../index.html>))
 
-((<ƒgƒbƒvƒy[ƒW‚É–ß‚é|URL:../index.html>))
+((<ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸ã«æˆ»ã‚‹|URL:../index.html>))
 =end JA

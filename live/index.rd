@@ -9,7 +9,7 @@
 * ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
   * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10) ---> 全公演中止(2021/01/22)</font>:))
 * 阿部真央 らいぶNo.9
-  * ((:<font color=red>2021年春に延期</font>:))
+  * ((:<font color=red>2021年春に延期---> 開催中止(2021/03/10)</font>:))
 * ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
   * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
@@ -135,4 +135,9 @@
 * ((<京都岡崎音楽祭 OKAZAKI LOOPS 2018 agehasprings produce《node_vol.2》|URL:https://www.mbs.jp/okazaki-loops/prog-23_main.shtml>))
   * 2018/06/23: 京都・ロームシアター京都 メインホール
     * 家入レオ / Aimer / 阿部真央
+
+((<一つ上に戻る|URL:../resume/index.html>))
+
+((<トップページに戻る|URL:../index.html>))
+
 =end JA

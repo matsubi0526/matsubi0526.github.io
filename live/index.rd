@@ -42,6 +42,10 @@
 * ((<AIMYON TOUR 2019 -SIXTH SENSE STORY-【追加公演】|URL:https://www.aimyong.net/news/detail/724>))
   * 2020/02/13: 大阪・大阪城ホール
 
+* ((<Perfume 8th Tour 2020 "P Cubed" in Dome|URL:https://www.perfume-web.jp/cam/dometour2020/>))
+  * 2020/02/02: 大阪・京セラドーム大阪
+
+
 == 2019年
 * ((<Veats Shibuya OPENING EVENT Colorful Records presents "Match Up" Day 1|URL:https://veats.jp/schedule/131/>))
   * 2019/09/20: 東京・Veats Shibuya

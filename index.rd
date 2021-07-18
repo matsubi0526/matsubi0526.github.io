@@ -33,7 +33,7 @@
   * ((<辻野智紀の個人ページ|URL:http://www.gfd-dennou.org/arch/satoki/pub/main/index.html>))
   * ((<Takashi Unuma's Web Page|URL:https://takashiunuma.github.io/>))
   * ((<Yasushi Fujiwara's website|URL:https://sites.google.com/view/yasushifujiwara>))
-  * ((<Daisuke Takasuka's Web Page|URL:https://ccsr.aori.u-tokyo.ac.jp/~takasuka/>))
+  * ((<Daisuke Takasuka's Web Page|URL:https://sites.google.com/view/daisuke-takasuka/>))
   * ((<Shion's Webpage|URL:http://www.atmos.rcast.u-tokyo.ac.jp/shion/index.htm>))
     * (({NCL})) に関するTips集があります。
   * ((<南原 優一のホームページ|URL:http://www-aos.eps.s.u-tokyo.ac.jp/~minamihara/>))

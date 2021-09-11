@@ -1,7 +1,9 @@
 =begin JA
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含む
+* 言うまでもないが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
+* ((<テレビ朝日ドリームフェスティバル2021|URL:http://dreamfestival.jp/>))
 * ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>))
 * ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 

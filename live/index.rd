@@ -3,7 +3,7 @@
 * COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
 * ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>))
-
+* ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
@@ -28,7 +28,7 @@
     * 2020/11/07 (Day2 1994-1998)
     * 2020/10/31 (Day1 1988-1993)
 
-* ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/blackmass>))
+* 聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」
   * 2020/12/06: 京都・ロームシアター京都 メインホール
   * 2020/10/20: 東京・東京国際フォーラムホールA
 

@@ -2,6 +2,8 @@
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含む
 === 参戦予定のライブ
+* ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>))
+
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
@@ -14,6 +16,9 @@
   * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2021年
+* ((<阿部真央 AbeMao YouTube Live|URL:https://abemao.com/feature/abemao_youtubelive>))
+  * 2021/09/11: Youtube Live
+  
 == 2020年
 * ((<B'z SHOWCASE 2020 -5 ERAS 8820- Day1～5|URL:https://bz-vermillion.com/showcase2020/>))
   * B'z Party PIA STREAM LIVE (Zepp Haneda)

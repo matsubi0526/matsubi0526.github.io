@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含む
 * 言うまでもないが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<テレビ朝日ドリームフェスティバル2021|URL:http://dreamfestival.jp/>))
 * ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>))
 * ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 
@@ -18,6 +17,9 @@
   * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2021年
+* ((<テレビ朝日ドリームフェスティバル2021|URL:http://dreamfestival.jp/>))
+  * 2021/09/23: 千葉・幕張メッセ
+    * DISH// / BREAKERZ / SHISHAMO / THE ORAL CIGARETTES / Dragon Ash / B'z
 * ((<阿部真央 AbeMao YouTube Live|URL:https://abemao.com/feature/abemao_youtubelive>))
   * 2021/09/11: Youtube Live
   

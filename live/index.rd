@@ -3,8 +3,8 @@
 * COVID-19の影響により、生配信ライブとなったものも含む
 * 言うまでもないが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>))
 * ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
+* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
@@ -17,6 +17,12 @@
   * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2021年
+* 家入レオ Online Special Live -124-
+  * 2021/10/14: Youtube Live (Shibuya eggman)
+* ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>)) (配信ライブ)
+  * B'z Party PIA STREAM LIVE
+    * 2021/10/04 (大阪公演: B'z☓Mr.Children)
+    * 2021/10/11 (横浜公演: B'z☓GLAY)
 * ((<テレビ朝日ドリームフェスティバル2021|URL:http://dreamfestival.jp/>))
   * 2021/09/23: 千葉・幕張メッセ
     * DISH// / BREAKERZ / SHISHAMO / THE ORAL CIGARETTES / Dragon Ash / B'z

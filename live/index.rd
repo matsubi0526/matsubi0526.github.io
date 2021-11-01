@@ -18,7 +18,20 @@
 * ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
   * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
+#== 2022年
+#* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
+#  * 2022/02/20: 東京・東京ガーデンシアター
+
 == 2021年
+#* ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (配信ライブ)
+#  * 2021/12/24: B'z Party PIA STREAM LIVE
+#* ((<阿部真央 AbeMao YouTube Live|URL:https://abemao.com/feature/abemao_youtubelive>))
+#  * 2021/11/27: Youtube Live
+#* ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (有観客ライブ)
+#  * 2021/11/17: 東京・東京ガーデンシアター
+#* ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
+#  * 2021/12/04: 福岡・福岡サンパレスホテル＆ホール
+#  * 2021/11/06: 東京・東京ガーデンシアター
 * 家入レオ Online Special Live -124-
   * 2021/10/14: Youtube Live (Shibuya eggman)
 * ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>)) (配信ライブ)
@@ -40,7 +53,7 @@
     * 2020/11/07 (Day2 1994-1998)
     * 2020/10/31 (Day1 1988-1993)
 
-* 聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」
+* ((<聖飢魔II地球デビュー35周年期間限定再集結「ヴィデオ黒ミサ＆生トークツアー『特別給付悪魔』」|URL:https://www.seikima-ii.com/feature/21e0da620564cb85e443bb7f694125f7>))
   * 2020/12/06: 京都・ロームシアター京都 メインホール
   * 2020/10/20: 東京・東京国際フォーラムホールA
 

@@ -27,8 +27,10 @@
 #  * 2021/12/24: B'z Party PIA STREAM LIVE
 #* ((<阿部真央 AbeMao YouTube Live|URL:https://abemao.com/feature/abemao_youtubelive>))
 #  * 2021/11/27: Youtube Live
-#* ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (有観客ライブ)
-#  * 2021/11/17: 東京・東京ガーデンシアター
+* ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (有観客ライブ)
+  * 2021/11/17: 東京・東京ガーデンシアター
+* ((<BUMP OF CHICKEN Studio Live Silver Jubilee|URL:https://www.bumpofchicken.com/news/detail/118>))
+  * 2021/11/14: Youtube Live
 * ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 #  * 2021/12/04: 福岡・福岡サンパレスホテル＆ホール
   * 2021/11/06: 東京・東京ガーデンシアター

@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含む
 * 言うまでもないが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>))
 * ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
 
@@ -25,21 +24,19 @@
 == 2021年
 #* ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (配信ライブ)
 #  * 2021/12/24: B'z Party PIA STREAM LIVE
-#* ((<阿部真央 AbeMao YouTube Live|URL:https://abemao.com/feature/abemao_youtubelive>))
-#  * 2021/11/27: Youtube Live
 * ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (有観客ライブ)
   * 2021/11/17: 東京・東京ガーデンシアター
 * ((<BUMP OF CHICKEN Studio Live Silver Jubilee|URL:https://www.bumpofchicken.com/news/detail/118>))
   * 2021/11/14: Youtube Live
 * ((<聖飢魔II地球デビュー35周年期間延長再集結「ヴィデオ＆変異生黒ミサツアー『悪チン集団接種』」|URL:https://www.seikima-ii.com/feature/blackmass>))
-#  * 2021/12/04: 福岡・福岡サンパレスホテル＆ホール
+  * 2021/12/04: 福岡・福岡サンパレスホテル＆ホール
   * 2021/11/06: 東京・東京ガーデンシアター
 * 家入レオ Online Special Live -124-
   * 2021/10/14: Youtube Live (Shibuya eggman)
 * ((<B'z presents UNITE #01|URL:https://bz-vermillion.com/unite/>)) (配信ライブ)
   * B'z Party PIA STREAM LIVE
-    * 2021/10/04 (大阪公演: B'z☓Mr.Children)
     * 2021/10/11 (横浜公演: B'z☓GLAY)
+    * 2021/10/04 (大阪公演: B'z☓Mr.Children)
 * ((<テレビ朝日ドリームフェスティバル2021|URL:http://dreamfestival.jp/>))
   * 2021/09/23: 千葉・幕張メッセ
     * DISH// / BREAKERZ / SHISHAMO / THE ORAL CIGARETTES / Dragon Ash / B'z

@@ -1,22 +1,22 @@
 =begin JA
 = ライブ参戦歴
-* COVID-19の影響により、生配信ライブとなったものも含む
-* 言うまでもないが、参戦にあたっては感染症対策は遵守しております
+* COVID-19の影響により、生配信ライブとなったものも含みます
+* 言うまでもないことが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
 * ((<B'z LIVE-GYM 2022|URL:https://bz-vermillion.com/livegym2022/>))
 
-=== 公演中止または延期分
-* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
-  * ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20) ---> 全公演中止(2020/12/07)</font>:))
-* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
-  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10) ---> 全公演中止(2021/01/22)</font>:))
-* 阿部真央 らいぶNo.9
-  * ((:<font color=red>2021年春に延期---> 開催中止(2021/03/10)</font>:))
-* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
-  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
+#=== 公演中止または延期分
+#* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
+#  * ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20) ---> 全公演中止(2020/12/07)</font>:))
+#* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
+#  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10) ---> 全公演中止(2021/01/22)</font>:))
+#* 阿部真央 らいぶNo.9
+#  * ((:<font color=red>2021年春に延期---> 開催中止(2021/03/10)</font>:))
+#* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
+#  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
-#== 2022年
+== 2022年
 #* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
 #  * 2022/02/20: 東京・東京ガーデンシアター
 

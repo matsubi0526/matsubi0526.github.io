@@ -4,7 +4,7 @@
 * 言うまでもないが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
-
+* ((<B'z LIVE-GYM 2022|URL:https://bz-vermillion.com/livegym2022/>))
 
 === 公演中止または延期分
 * ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

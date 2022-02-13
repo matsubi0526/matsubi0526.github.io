@@ -16,7 +16,7 @@
 * 2020/04 - 2020/09 : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 予報部 情報通信課
 * 2020/10 - : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 情報基盤部 情報通信基盤課（組織改編による）
 #* 2020/10 - 2022/03 : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 情報基盤部 情報通信基盤課（組織改編による）
-#* 2022/04 - : ((<気象庁|URL:https://www.jma.go.jp/jma/index.html>)) 情報基盤部 数値予報課
+#* 2022/04 - : 気象庁 情報基盤部 数値予報課
 === 趣味
 * ライブに行くこと（((<ライブ参戦歴|URL:../live/index.html>))）
 

@@ -51,4 +51,6 @@
 * 今後のコンテンツの追加具合によっては、レイアウトを大きく変更する場合があります。
   * ((<RDWebgen - RD から html を生成するスクリプト|URL:http://www.gfd-dennou.org/library/cc-env/RDWebgen/index.htm.ja>))
   * ((<モデルプロジェクトのための最低限 rd|URL:https://www.gfd-dennou.org/library/dcmodel/doc/TEBIKI.dcmodel-rd-guide.htm>))
+== 試作品的なやつ
+* ((<僕はなんて未完成|URL:hoge/index.html>))
 =end JA

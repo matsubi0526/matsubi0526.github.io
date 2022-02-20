@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
 * ((<B'z LIVE-GYM 2022|URL:https://bz-vermillion.com/livegym2022/>))
 
 #=== 公演中止または延期分
@@ -17,8 +16,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2022年
-#* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
-#  * 2022/02/20: 東京・東京ガーデンシアター
+* ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
+  * 2022/02/20: 東京・東京ガーデンシアター
 
 == 2021年
 * ((<B'z presents LIVE FRIENDS|URL:https://bz-vermillion.com/livefriends/>)) (配信ライブ)

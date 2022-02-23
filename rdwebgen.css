@@ -116,3 +116,12 @@ h3 {
     h3 a:visited {
       color: #003366;
       text-decoration: none; }
+
+/* 2022-02-23 added */
+em {
+  color: #004080;
+  font-family: arial, helvetica, Sans-Serif, gothic;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+}

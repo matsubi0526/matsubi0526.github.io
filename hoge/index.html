@@ -84,16 +84,26 @@
     <div class="container main">
 <div id="main">
 <section class="contents">
-<h3><a id="label-0">Pythonで自宅のWi-Fi環境を計測してみる</a></h3>
+<h2><a id="label-0">Pythonで自宅のWi-Fi環境を計測してみる</a></h2>
 <ul>
 <li>speedtestを使って自宅のWi-Fi環境の速度測定をしてみた。
 <ul>
+<li>毎時2分にスクリプトをcrontabで定期実行させて、結果をcsvファイルに出力させている。</li>
 <li>ほんとはpythonで箱ひげ図を描きたかったけど、やっぱりDCLで描いてしまった。</li>
-<li><em>2022/02/23追記</em>: 測定結果を散布図に描いてみた。
-<ul>
-<li>上り速度が平均30Mbpsでほぼ一定だと思っていた。</li>
-<li>だけど、頻度分布を見るとbimodalになっていたのね、へえ。</li>
 </ul></li>
+</ul>
+<h3><a id="label-1">以下、メモ</a></h3>
+<ul>
+<li><em>2022/03/04追記</em>:
+<ul>
+<li>このスクリプトを動かしているノートPCが10年モノのため無線LANの規格が古く、本来の速度が出ていないことが判明。</li>
+<li>別のPCでspeedtest(Web版)を試すと、軽く200Mbpsは出る。</li>
+</ul></li>
+<li><em>2022/02/23追記</em>:
+<ul>
+<li>測定結果を散布図に描いてみた。</li>
+<li>上り速度が平均30Mbpsでほぼ一定だと思っていた。</li>
+<li>だけど、頻度分布を見るとbimodalになっていたのね。</li>
 </ul></li>
 </ul>
 <div style="text-align:left;"> 
@@ -109,7 +119,7 @@
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2022/02/23, Since 2020/04/13
+    Lastupdate: 2022/03/04, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

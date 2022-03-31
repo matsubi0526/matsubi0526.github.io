@@ -4,7 +4,7 @@
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
-#* ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
+* ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
@@ -17,6 +17,14 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2022年
+#* ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
+#  * 2022/11/18: 東京・中野サンプラザホール
+#  * 2022/10/29: 福岡・福岡市民会館
+#  * 2022/10/21: 兵庫・神戸国際会館 こくさいホール
+#  * 2022/10/01: 神奈川・相模女子大学グリーンホール
+#* ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
+#  * 2022/06/25: 広島・広島グリーンアリーナ
+#  * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ
 * ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
   * 2022/02/20: 東京・東京ガーデンシアター
 

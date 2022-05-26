@@ -4,6 +4,7 @@
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
+* ((<阿部真央らいぶNo.9|URL:https://abemao.com/news/detail/1216>))
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2022|URL:https://www.mai-kuraki.com/live/symphonicconcert2022.html>))
 * ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 
@@ -25,9 +26,9 @@
 #  * 2022/10/01: 神奈川・相模女子大学グリーンホール
 #* ((<billboard classics Mai Kuraki Premium Symphonic Concert 2022|URL:https://www.mai-kuraki.com/live/symphonicconcert2022.html>))
 #   * 2022/06/19: 東京・東京国際フォーラムホールA 
-#* ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
+* ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
 #  * 2022/06/25: 広島・広島グリーンアリーナ
-#  * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ
+  * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ
 * ((<家入レオ 10th Anniversary Live at 東京ガーデンシアター|URL:https://www.ken-on.co.jp/leo_10th_anniversary_live/>))
   * 2022/02/20: 東京・東京ガーデンシアター
 

@@ -1,13 +1,14 @@
 =begin JA
 == インストールメモ
+=== Debian buster
 * ((<Debian buster のインストール|URL:./debian/index.html>))
 * ((<Debian buster でBrotherプリンタを使用する|URL:./printer/index.html>))
 
-=== 近日公開予定
-* Debian bullseye のインストール
-#* ((<Debian bullseye のインストール|URL:./debian11/index.html>))
+=== Debian bullseye
+* ((<Debian bullseye のインストール|URL:./debian11/index.html>))
 
-=== たぶん公開予定
+=== 近日公開予定
+* Debian bullseye でBrotherプリンタを使用する
 * Ubuntu のインストール
 #* ((<Ubuntu のインストール|URL:./ubuntu/index.html>))
 

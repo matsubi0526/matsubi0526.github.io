@@ -84,23 +84,21 @@
     <div class="container main">
 <div id="main">
 <section class="contents">
-<h2><a id="label-0">インストールメモ</a></h2>
-<h3><a id="label-1">Debian buster</a></h3>
+<h2><a id="label-0">その他のパッケージのインストール</a></h2>
+<h3><a id="label-1">dennou6.styのインストール</a></h3>
+<p>導入の仕方は本家のページ（<a href="https://www.gfd-dennou.org/library/cc-env/TeXmacro/dennou/">GFD Dennou Club Resources: 地球流体電脳倶楽部 TeX スタイルファイル</a>）を参照のこと</p>
 <ul>
-<li><a href="./debian/index.html">Debian buster のインストール</a></li>
-<li><a href="./printer/index.html">Debian buster でBrotherプリンタを使用する</a></li>
+<li><p>debパッケージからインストールすることとし、<code>wget</code>でdebパッケージを取得</p>
+<pre>$ wget https://www.gfd-dennou.org/library/cc-env/TeXmacro/dennou/dennou-sty-6_0.6.10-1.1_all.deb</pre></li>
+<li><p>ダウンロードしたファイルを<code>dpkg -i</code>でインストールする</p>
+<pre>$ sudo dpkg -i dennou-sty-6_0.6.10-1.1_all.deb</pre></li>
+<li><p>インストールが成功すれば、<code>dennou-sty-6</code>ディレクトリが出来上がっている</p>
+<pre>$ ls /usr/share/texmf/tex/ptex/dennou-sty-6/
+D6comment.sty D6graphicx.sty D6misc.sty D6select.sty D6version.sty
+D6float.sty   D6math.sty     D6prog.sty D6style.sty  Dennou6.sty</pre></li>
+<li><p>あとはTeXファイルのプリアンブルに以下のように記載して使用することができる</p>
+<pre>\usepackage{Dennou6}</pre></li>
 </ul>
-<h3><a id="label-2">Debian bullseye</a></h3>
-<ul>
-<li><a href="./debian11/index.html">Debian bullseye のインストール</a></li>
-</ul>
-<h3><a id="label-3">近日公開予定</a></h3>
-<ul>
-<li>Debian bullseye でBrotherプリンタを使用する</li>
-<li>Ubuntu のインストール</li>
-</ul>
-<p><a href="../index.html">一つ上に戻る</a></p>
-<p><a href="../index.html">トップページに戻る</a></p>
 </section>
 </div>
   </div> <!-- /.container main -->

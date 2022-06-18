@@ -5,7 +5,8 @@
 === 参戦予定のライブ
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2022|URL:https://www.mai-kuraki.com/live/symphonicconcert2022.html>))
 * ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
-* ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
+* ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
+* ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

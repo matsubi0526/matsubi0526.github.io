@@ -6,6 +6,7 @@
 * ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
 * ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 * ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
+* ((<AIMYON 弾き語り LIVE 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

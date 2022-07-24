@@ -54,7 +54,7 @@
   * ((<モデルプロジェクトのための最低限 rd|URL:https://www.gfd-dennou.org/library/dcmodel/doc/TEBIKI.dcmodel-rd-guide.htm>))
 == 試作品的なやつ
 * ((<僕はなんて未完成|URL:hoge/index.html>))
-* 君はなんて未完成
+* ((<君はなんて未完成|URL:comm/index.html>))
 * 数奇にして模型
   * 洋題はNumerical Modelsですが、気象の世界だと「数値モデル」となってちょっと意味が変わってきますよね。
 =end JA

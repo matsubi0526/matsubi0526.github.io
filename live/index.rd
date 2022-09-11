@@ -3,7 +3,7 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
+#* ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
 * ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 * ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<AIMYON 弾き語り LIVE 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
@@ -27,8 +27,8 @@
 #  * 2022/10/29: 福岡・福岡市民会館
 #  * 2022/10/21: 兵庫・神戸国際会館 こくさいホール
 #  * 2022/10/01: 神奈川・相模女子大学グリーンホール
-#* ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
-#  * 2022/09/11: 大阪・NHK大阪ホール
+* ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
+  * 2022/09/11: 大阪・NHK大阪ホール
 * ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
   * 2022/06/25: 広島・広島グリーンアリーナ
   * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ

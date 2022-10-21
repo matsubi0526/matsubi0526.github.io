@@ -138,7 +138,7 @@ USBを引き抜いてから再起動します (USB挿しっぱなしだと再び
 
 * 電脳製品(DCLなど)を取得するために配布先を付け足します。
    deb http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou bullseye main
-   deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou bullsye main
+   deb-src http://www.gfd-dennou.org/library/cc-env/Linux/debian-dennou bullseye main
 
 * 利用するには公開鍵の登録が必要なので、((<地球流体電脳倶楽部謹製品 Debian パッケージ集|URL:http://www.gfd-dennou.org/arch/cc-env/debian-dennou/index.htm.ja>))を参考に、以下のように鍵を登録します。
    $ sudo apt-get install debian-keyring

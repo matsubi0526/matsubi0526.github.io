@@ -23,7 +23,7 @@
 * ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
 #  * 2022/12/10: 東京・東京ガーデンシアター
   * 2022/10/23: 長野・ホクト文化ホール
-* ((<家入レオ 8th Live Tour 2022|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
+* ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 #  * 2022/11/18: 東京・中野サンプラザホール
 #  * 2022/10/29: 福岡・福岡市民会館
   * 2022/10/21: 兵庫・神戸国際会館 こくさいホール

@@ -5,7 +5,6 @@
 === 参戦予定のライブ
 * ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 * ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
-* ((<AIMYON 弾き語り LIVE 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
@@ -18,8 +17,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2022年
-#* ((<AIMYON 弾き語り LIVE 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
-#   * 2022/11/05: 兵庫・阪神甲子園球場
+* ((<AIMYON 弾き語りライブ 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
+   * 2022/11/05: 兵庫・阪神甲子園球場
 * ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
 #  * 2022/11/18: 東京・中野サンプラザホール
   * 2022/10/29: 福岡・福岡市民会館

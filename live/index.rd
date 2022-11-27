@@ -17,6 +17,10 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2022年
+* ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
+  * 2022/11/27: 神奈川・ぴあアリーナMM (振替公演・配信ライブ)
+  * 2022/06/25: 広島・広島グリーンアリーナ
+  * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ
 * ((<家入レオ 8th Live Tour 2022 〜THE BEST〜|URL:https://www.ken-on.co.jp/leoieiri_8th/>))
   * 2022/11/18: 東京・中野サンプラザホール
   * 2022/10/29: 福岡・福岡市民会館
@@ -29,9 +33,6 @@
   * 2022/10/23: 長野・ホクト文化ホール
 * ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
   * 2022/09/11: 大阪・NHK大阪ホール
-* ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
-  * 2022/06/25: 広島・広島グリーンアリーナ
-  * 2022/05/26: 東京・武蔵野の森 総合スポーツプラザ メインアリーナ
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2022|URL:https://www.mai-kuraki.com/live/symphonicconcert2022.html>))
    * 2022/06/19: 東京・東京国際フォーラムホールA
 * ((<阿部真央らいぶNo.9|URL:https://abemao.com/feature/fdc8b07d4c3bdb09d628170509a68264>))

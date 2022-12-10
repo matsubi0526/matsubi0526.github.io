@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/news/221101.html>))
 
 #=== 公演中止または延期分
@@ -17,6 +16,9 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2022年
+* ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
+  * 2022/12/10: 東京・東京ガーデンシアター
+  * 2022/10/23: 長野・ホクト文化ホール
 * ((<B'z LIVE-GYM 2022 -Highway X-|URL:https://bz-vermillion.com/livegym2022/>))
   * 2022/11/27: 神奈川・ぴあアリーナMM (振替公演・配信ライブ)
   * 2022/06/25: 広島・広島グリーンアリーナ
@@ -28,9 +30,6 @@
   * 2022/10/01: 神奈川・相模女子大学グリーンホール
 * ((<AIMYON 弾き語りライブ 2022 -サーチライト- in 阪神甲子園球場|URL:https://www.aimyong.net/feature/searchlight>))
    * 2022/11/05: 兵庫・阪神甲子園球場
-* ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
-#  * 2022/12/10: 東京・東京ガーデンシアター
-  * 2022/10/23: 長野・ホクト文化ホール
 * ((<阿部真央TOUR2022 "Who Am I"|URL:https://abemao.com/news/detail/1233>))
   * 2022/09/11: 大阪・NHK大阪ホール
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2022|URL:https://www.mai-kuraki.com/live/symphonicconcert2022.html>))

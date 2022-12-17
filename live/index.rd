@@ -3,6 +3,7 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
+* ((<家入レオ FanClub Live 2023 ～Rebuild～|URL:https://www.jvcmusic.co.jp/-/News/A023686/752.html>))
 * ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/news/221101.html>))
 
 #=== 公演中止または延期分

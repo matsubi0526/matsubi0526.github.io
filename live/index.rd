@@ -5,6 +5,7 @@
 === 参戦予定のライブ
 * ((<家入レオ FanClub Live 2023 ～Rebuild～|URL:https://www.jvcmusic.co.jp/-/News/A023686/752.html>))
 * ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/news/221101.html>))
+* ((<阿部真央 Live Tour "Never Never Fear"|URL:https://abemao.com/news/detail/1293>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

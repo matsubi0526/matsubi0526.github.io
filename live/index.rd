@@ -17,6 +17,8 @@
 #* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
+== 2023年
+
 == 2022年
 * ((<聖飢魔II期間再延長再集結「35++執念の大黒ミサツアー」|URL:https://www.seikima-ii.com/feature/blackmass>))
   * 2022/12/10: 東京・東京ガーデンシアター

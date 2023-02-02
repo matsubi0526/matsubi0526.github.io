@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/en3-5>))
 * ((<阿部真央 Live Tour "Never Never Fear"|URL:https://abemao.com/news/detail/1293>))
 
 #=== 公演中止または延期分
@@ -17,8 +16,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2023年
-#* ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/en3-5>))
-#  * 2023/02/02: 神奈川・横浜アリーナ
+* ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/en3-5>))
+  * 2023/02/02: 神奈川・横浜アリーナ
 * ((<家入レオ FanClub Live 2023 ～Rebuild～|URL:https://www.jvcmusic.co.jp/-/News/A023686/752.html>))
   * 2023/02/01: 東京・LIQUIDROOM
 == 2022年

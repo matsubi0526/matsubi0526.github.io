@@ -19,9 +19,9 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2023年
-#* ((<B'z presents -Treasure Land 2023- ライブ・ビューイング|URL:https://bz-vermillion.com/treasureland23/liveviewing.html>))
+* ((<B'z presents -Treasure Land 2023- ライブ・ビューイング|URL:https://bz-vermillion.com/treasureland23/liveviewing.html>))
 #  * 2023/03/12（B'z LIVE-GYM Pleasure '97 -FIREBALL-）
-#  * 2023/03/11（B'z LIVE-GYM Pleasure '93 -JAP THE RIPPER-）
+  * 2023/03/11（B'z LIVE-GYM Pleasure '93 -JAP THE RIPPER-）
 * ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/en3-5>))
   * 2023/02/02: 神奈川・横浜アリーナ
 * ((<家入レオ FanClub Live 2023 ～Rebuild～|URL:https://www.jvcmusic.co.jp/-/News/A023686/752.html>))

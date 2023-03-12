@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<B'z presents -Treasure Land 2023- ライブ・ビューイング|URL:https://bz-vermillion.com/treasureland23/liveviewing.html>))
 * ((<阿部真央 Live Tour "Never Never Fear"|URL:https://abemao.com/news/detail/1293>))
 * ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
@@ -20,7 +19,7 @@
 
 == 2023年
 * ((<B'z presents -Treasure Land 2023- ライブ・ビューイング|URL:https://bz-vermillion.com/treasureland23/liveviewing.html>))
-#  * 2023/03/12（B'z LIVE-GYM Pleasure '97 -FIREBALL-）
+  * 2023/03/12（B'z LIVE-GYM Pleasure '97 -FIREBALL-）
   * 2023/03/11（B'z LIVE-GYM Pleasure '93 -JAP THE RIPPER-）
 * ((<Koshi Inaba LIVE 2023 〜en3.5〜|URL:https://bz-vermillion.com/en3-5>))
   * 2023/02/02: 神奈川・横浜アリーナ

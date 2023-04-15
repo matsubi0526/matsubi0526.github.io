@@ -5,6 +5,7 @@
 === 参戦予定のライブ
 * ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
+* ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

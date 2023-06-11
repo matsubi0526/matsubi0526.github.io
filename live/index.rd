@@ -4,6 +4,7 @@
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
+#* ((<あべまにあ限定イベント2023|URL:https://abemao.com/news/detail/1347>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 

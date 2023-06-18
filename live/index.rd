@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 #* ((<あべまにあ限定イベント2023|URL:https://abemao.com/news/detail/1347>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
@@ -19,6 +18,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2023年
+* ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
+  * 2023/06/17: 福岡・DRUM LOGOS
 * ((<阿部真央 Live Tour "Never Never Fear"|URL:https://abemao.com/news/detail/1293>))
   * 2023/04/02: 東京・EX THEATER ROPPONGI 
 * ((<B'z presents -Treasure Land 2023- ライブ・ビューイング|URL:https://bz-vermillion.com/treasureland23/liveviewing.html>))

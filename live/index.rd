@@ -3,7 +3,7 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-#* ((<あべまにあ限定イベント2023|URL:https://abemao.com/news/detail/1347>))
+#* ((<Mai Kuraki Fanclub event 2023 "WE LOVE YOU & MAI"|URL:https://www.mai-kuraki.com/information/20230519_00.html>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 
@@ -18,6 +18,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2023年
+* ((<ABEMANIA -MEMBERS LIVE 2023-|URL:https://abemao.com/news/detail/1347>))
+  * 2023/07/05: 東京・duo MUSIC EXCHANGE
 * ((<家入レオ TOUR 2023 〜NOT ALONE〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
   * 2023/06/17: 福岡・DRUM LOGOS
 * ((<阿部真央 Live Tour "Never Never Fear"|URL:https://abemao.com/news/detail/1293>))

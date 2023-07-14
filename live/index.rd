@@ -5,6 +5,7 @@
 === 参戦予定のライブ
 #* ((<Mai Kuraki Fanclub event 2023 "WE LOVE YOU & MAI"|URL:https://www.mai-kuraki.com/information/20230519_00.html>))
 * ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
+* ((<阿部真央 Acoustic Live Tour "I've Got the Power"|URL:https://abemao.com/feature/acoustic_livetour2023>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 
 #=== 公演中止または延期分

@@ -131,7 +131,8 @@ exit</pre></li>
 <li>画像ファイルのトリミングをする。若干の余白を作る。
 <ul>
 <li>以下のスクリプトを<code>trimpng</code>としてパスを通しているディレクトリに置いている。</li>
-<li><p><code>mogrify</code>を使うのでImageMagickがインストールされている必要がある。</p>
+<li><code>mogrify</code>を使うのでImageMagickがインストールされている必要がある。</li>
+<li><p><code>optparse</code>を使った巧妙なオプション設定が出来れば理想的。</p>
 <pre>#!/usr/bin/ruby
 pngfile=(ARGV[0]||(puts "Input pngfile name for trimming"; gets.chomp!)).to_s
 p cmd = "mogrify -trim -bordercolor '#ffffff' -border 5%x5% #{pngfile}"
@@ -157,7 +158,7 @@ exit</pre></li>
   <footer>
     <p>
     &copy; MATSUBA Fumitaka: <img src="https://matsubi0526.github.io/email_image.png" height=16pt alt="contact address" style="display-style: inline; vertical-align: middle;" /> <br />
-    Lastupdate: 2022/09/06, Since 2020/04/13
+    Lastupdate: 2023/08/20, Since 2020/04/13
     </p>
   </footer>
   </div> <!-- /.container main -->

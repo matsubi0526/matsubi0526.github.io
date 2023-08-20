@@ -39,6 +39,7 @@
 * 画像ファイルのトリミングをする。若干の余白を作る。
   * 以下のスクリプトを(({trimpng}))としてパスを通しているディレクトリに置いている。
   * (({mogrify}))を使うのでImageMagickがインストールされている必要がある。
+  * (({optparse}))を使った巧妙なオプション設定が出来れば理想的。
       #!/usr/bin/ruby
       pngfile=(ARGV[0]||(puts "Input pngfile name for trimming"; gets.chomp!)).to_s
       p cmd = "mogrify -trim -bordercolor '#ffffff' -border 5%x5% #{pngfile}"

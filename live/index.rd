@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
 * ((<阿部真央 Acoustic Live Tour "I've Got the Power"|URL:https://abemao.com/feature/acoustic_livetour2023>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
@@ -19,6 +18,8 @@
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
 == 2023年
+* ((<B'z LIVE-GYM Pleasure 2023 -STARS-|URL:https://bz-vermillion.com/bz35_pleasure2023/>))
+  * 2023/09/03: 神奈川・日産スタジアム
 * ((<Mai Kuraki Fanclub event 2023 "WE LOVE YOU & MAI"|URL:https://www.mai-kuraki.com/information/20230519_00.html>))
   * 2023/08/11: 東京・Zepp Haneda
 * ((<ABEMANIA -MEMBERS LIVE 2023-|URL:https://abemao.com/news/detail/1347>))

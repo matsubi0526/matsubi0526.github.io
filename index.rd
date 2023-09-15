@@ -30,6 +30,10 @@
   * ((<京都大学 気象学研究室|URL:http://www-mete.kugi.kyoto-u.ac.jp>))
   * ((<京都大学 物理気候学研究室|URL:http://www-clim.kugi.kyoto-u.ac.jp/index.html>))
 
+* 気象庁関連
+  * ((<配信資料に関する技術情報|URL:https://www.data.jma.go.jp/suishin/cgi-bin/jyouhou/jyouhou.cgi>))
+    * ((<配信資料に関する技術情報等に付属するサンプル・データ|URL:http://www.jmbsc.or.jp/jp/online/c-onlineGsd.html>))
+
 * 個人ページ
   * ((<辻野智紀の個人ページ|URL:http://www.gfd-dennou.org/arch/satoki/pub/main/index.html>))
   * ((<Takashi Unuma's Web Page|URL:https://takashiunuma.github.io/>))

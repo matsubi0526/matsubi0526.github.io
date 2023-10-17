@@ -6,6 +6,7 @@
 * ((<阿部真央 Acoustic Live Tour "I've Got the Power"|URL:https://abemao.com/feature/acoustic_livetour2023>))
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
+* ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
 
 #=== 公演中止または延期分
 #* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))

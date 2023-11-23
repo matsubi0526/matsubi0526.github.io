@@ -4,6 +4,7 @@
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
+* ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/798>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
 
 #=== 公演中止または延期分

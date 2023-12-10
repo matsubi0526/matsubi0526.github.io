@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
 * ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))
 * ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/798>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
@@ -18,7 +17,10 @@
 #* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
 #  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
 
+== 2024年
 == 2023年
+* ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
+  * 2023/12/10: 東京・東京国際フォーラムホールA
 * ((<家入レオ TOUR 2023 〜NAKED〜|URL:https://www.leo-ieirimobile.com/feature/specialsite_tour2023>))
   * 2023/10/27: 東京・Zepp Haneda
 * ((<阿部真央 Acoustic Live Tour "I've Got the Power"|URL:https://abemao.com/feature/acoustic_livetour2023>))

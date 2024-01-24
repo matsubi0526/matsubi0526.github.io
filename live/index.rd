@@ -1,23 +1,14 @@
 =begin JA
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含みます
-* 言うまでもないことですが、参戦にあたっては感染症対策は遵守しております
+* 参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))
 * ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/798>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
 
-#=== 公演中止または延期分
-#* ((<INABA／SALAS "the First of the Last Big Tours 2020"|URL:http://en-zine.jp/pc/live/inabasalas20/index.html>))
-#  * ((:<font color=red>全公演延期---> 振替公演決定(2020/06/20) ---> 全公演中止(2020/12/07)</font>:))
-#* ((<Tak Matsumoto Tour 2020 -Here Comes the Bluesman-|URL:http://houseofstrings.jp/tour/2020/>))
-#  * ((:<font color=red>全公演延期---> 振替公演決定(2020/07/10) ---> 全公演中止(2021/01/22)</font>:))
-#* 阿部真央 らいぶNo.9
-#  * ((:<font color=red>2021年春に延期---> 開催中止(2021/03/10)</font>:))
-#* ((<家入レオ Live House Tour 2020|URL:https://www.ken-on.co.jp/leo2020/ticket_schedule/>))
-#  * ((:<font color=red>全公演中止(2020/06/23)</font>:))
-
 == 2024年
+* ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))
+  * 2024/01/24: 東京・Billboard Live TOKYO
 == 2023年
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2023|URL:https://www.mai-kuraki.com/live/symphonicconcert2023.html>))
   * 2023/12/10: 東京・東京国際フォーラムホールA

@@ -5,6 +5,9 @@
 === 参戦予定のライブ
 * ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/798>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
+* ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
+* ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
+
 
 == 2024年
 * ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))

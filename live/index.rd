@@ -1,9 +1,8 @@
 =begin JA
-= ライブ参戦歴
+65;5402;1c= ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/798>))
 * ((<Billboard Live presents Piano Duo Session #5 家入レオ×武部聡志|URL:https://www.leo-ieirimobile.com/news/detail/100124>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
 * ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
@@ -12,6 +11,8 @@
 
 
 == 2024年
+* ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/213>)) (Day1)
+  * 2024/03/16: 東京・日比谷野外音楽堂
 * ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))
   * 2024/01/24: 東京・Billboard Live TOKYO
 == 2023年

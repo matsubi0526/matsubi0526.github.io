@@ -5,6 +5,7 @@
 === 参戦予定のライブ
 * ((<Billboard Live presents Piano Duo Session #5 家入レオ×武部聡志|URL:https://www.leo-ieirimobile.com/news/detail/100124>))
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
+* ((<あべまにあ限定イベント2024|URL:https://abemao.com/news/detail/1452>))
 * ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
 * ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))

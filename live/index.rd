@@ -9,7 +9,7 @@
 * ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
 * ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
-
+* ((<家入レオ TOUR 2024|URL:https://www.leo-ieirimobile.com/news/detail/100197>))
 
 == 2024年
 * ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/213>)) (Day1)

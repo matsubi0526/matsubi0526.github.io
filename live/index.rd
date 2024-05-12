@@ -3,13 +3,14 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<あべまにあ限定イベント2024|URL:https://abemao.com/news/detail/1452>))
 * ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
 * ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<家入レオ TOUR 2024|URL:https://www.leo-ieirimobile.com/news/detail/100197>))
 
 == 2024年
+* ((<あべまにあ限定イベント2024|URL:https://abemao.com/news/detail/1452>))
+  * 2024/05/12: 東京・日本橋三井ホール
 * ((<いきものがかりのみなさん、こんにつあー！！2024 あなたと！わたしと！みんなで！歌いまSHOW！！|URL:https://ikimonogakari.com/tour2024/>))
   * 2024/04/26: 大阪・グランキューブ大阪 メインホール
 * ((<Billboard Live presents Piano Duo Session #5 家入レオ×武部聡志|URL:https://www.leo-ieirimobile.com/news/detail/100124>))

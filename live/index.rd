@@ -8,6 +8,7 @@
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<TMG LIVE 2024 -Still Dodging The Bullet-|URL:https://takmatsumotogroup.com/tour/>))
 * ((<家入レオ TOUR 2024|URL:https://www.leo-ieirimobile.com/news/detail/100197>))
+* ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
 == 2024年
 * ((<Tak Matsumoto Tour 2024 -Here Comes the Bluesman-|URL:https://bz-vermillion.com/hctb2024/index.html>))
@@ -18,8 +19,8 @@
   * 2024/04/26: 大阪・グランキューブ大阪 メインホール
 * ((<Billboard Live presents Piano Duo Session #5 家入レオ×武部聡志|URL:https://www.leo-ieirimobile.com/news/detail/100124>))
   * 2024/04/12: 東京・Billboard Live TOKYO
-* ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/213>)) (Day1)
-  * 2024/03/16: 東京・日比谷野外音楽堂
+* ((<家入レオ YAON ～SPRING TREE～|URL:https://www.leo-ieirimobile.com/news/detail/213>))
+  * 2024/03/16: 東京・日比谷野外音楽堂(Day 1)
 * ((<15th Anniversary Abe Mao Billboard Live Tour 2024|URL:https://abemao.com/news/detail/1407>))
   * 2024/01/24: 東京・Billboard Live TOKYO
 == 2023年

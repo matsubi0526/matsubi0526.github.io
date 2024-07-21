@@ -3,14 +3,15 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
 * ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
-* ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<TMG LIVE 2024 -Still Dodging The Bullet-|URL:https://takmatsumotogroup.com/tour/>))
+* ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<家入レオ TOUR 2024|URL:https://www.leo-ieirimobile.com/news/detail/100197>))
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
 == 2024年
+* ((<Koshi Inaba LIVE 2024 〜enIV〜|URL:https://bz-vermillion.com/en4/>))
+  * 2024/07/20: 神奈川・Kアリーナ横浜
 * ((<Tak Matsumoto Tour 2024 -Here Comes the Bluesman-|URL:https://bz-vermillion.com/hctb2024/index.html>))
   * 2024/05/26: 大阪・豊中市立文化芸術センター大ホール (配信ライブ)
 * ((<あべまにあ限定イベント2024|URL:https://abemao.com/news/detail/1452>))

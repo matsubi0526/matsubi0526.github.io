@@ -6,7 +6,8 @@
 * ((<15th Anniversary Abe Mao Solo Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<TMG LIVE 2024 -Still Dodging The Bullet-|URL:https://takmatsumotogroup.com/tour/>))
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
-* ((<家入レオ TOUR 2024|URL:https://www.leo-ieirimobile.com/news/detail/100197>))
+* ((<家入レオ TOUR 2024 〜My name〜|URL:https://www.leo-ieirimobile.com/news/detail/100210>))
+* 小杉-GYM Pleasure 2024 -SKORS-
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
 == 2024年

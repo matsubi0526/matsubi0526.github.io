@@ -8,6 +8,7 @@
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<家入レオ TOUR 2024 〜My name〜|URL:https://www.leo-ieirimobile.com/news/detail/100210>))
 * 小杉-GYM Pleasure 2024 -SKORS-
+* ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " supported by U-NEXT|URL:https://www.mai-kuraki.com/live/tour24/>))
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
 == 2024年

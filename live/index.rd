@@ -3,13 +3,14 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 * 参戦にあたっては感染症対策は遵守しております
 === 参戦予定のライブ
-* 小杉-GYM Pleasure 2024 -SKORS-
 * ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " Pre-Live for Mai-K.net|URL:http://www.mai-kuraki.com/live/20241026.html>))
 * ((<山本彩☓ライブナタリー Zepp TOUR「SYnergy」|URL:https://live-lp.natalie.mu/sayakayamamoto/>))
 * ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " supported by U-NEXT|URL:https://www.mai-kuraki.com/live/tour24/>))
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
 == 2024年
+* 小杉-GYM Pleasure 2024 -SKORS-
+  * 2024/10/20: 東京・ルミネtheよしもと
 * ((<家入レオ TOUR 2024 〜My name〜|URL:https://www.leo-ieirimobile.com/news/detail/100210>))
   * 2024/10/12: 埼玉・三郷市文化会館
 * ((<15th Anniversary Abe Mao Zepp Live Tour 2024|URL:https://abemao.com/feature/15th_livetour2024>))

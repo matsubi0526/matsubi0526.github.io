@@ -1,12 +1,14 @@
 =begin JA
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含みます
-* 参戦にあたっては感染症対策は遵守しております
+
 === 参戦予定のライブ
-* ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " supported by U-NEXT|URL:https://www.mai-kuraki.com/live/tour24/>))
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 
+== 2025年
 == 2024年
+* ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " supported by U-NEXT|URL:https://www.mai-kuraki.com/live/tour24/>))
+  * 2024/12/07: 東京・東京ガーデンシアター
 * ((<山本彩☓ライブナタリー Zepp TOUR「SYnergy」|URL:https://live-lp.natalie.mu/sayakayamamoto/>))
   * 2024/11/19: 東京・Zepp Haneda
 * ((<25th Anniversary Mai Kuraki Live Project 2024 "Be alright ! " Pre-Live for Mai-K.net|URL:http://www.mai-kuraki.com/live/20241026.html>))

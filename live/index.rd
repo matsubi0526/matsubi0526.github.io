@@ -4,6 +4,7 @@
 
 === 参戦予定のライブ
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
+* ((<家入レオ YAON ～SPRING TREE～ vol.2|URL:https://www.leo-ieirimobile.com/news/detail/100483>))
 
 == 2025年
 == 2024年

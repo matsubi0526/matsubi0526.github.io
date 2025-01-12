@@ -2,9 +2,10 @@
 = ライブ参戦歴
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
-=== 参戦予定のライブ
+=== 参戦予定のライブ/コンサート
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<家入レオ YAON ～SPRING TREE～ vol.2|URL:https://www.leo-ieirimobile.com/news/detail/100483>))
+* ((<名探偵コナン スペシャルコンサート 2025|URL:https://www.ytv.co.jp/event/contents/conanconcert2025.html>))
 
 == 2025年
 == 2024年

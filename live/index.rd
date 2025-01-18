@@ -5,6 +5,8 @@
 === 参戦予定のライブ/コンサート
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))
 * ((<家入レオ YAON ～SPRING TREE～ vol.2|URL:https://www.leo-ieirimobile.com/news/detail/100483>))
+* ((<INABA／SALAS TOUR 2025 -Never Goodbye Only Hello-|URL:https://bz-vermillion.com/is2/>))
+* ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<名探偵コナン スペシャルコンサート 2025|URL:https://www.ytv.co.jp/event/contents/conanconcert2025.html>))
 
 == 2025年

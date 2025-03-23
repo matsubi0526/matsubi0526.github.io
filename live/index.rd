@@ -3,7 +3,6 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
 === 参戦予定のライブ/コンサート
-* ((<INABA／SALAS TOUR 2025 -Never Goodbye Only Hello-|URL:https://bz-vermillion.com/is2/>))
 * ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<名探偵コナン スペシャルコンサート 2025|URL:https://www.ytv.co.jp/event/contents/conanconcert2025.html>))
 * ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
@@ -11,6 +10,8 @@
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 
 == 2025年
+* ((<INABA／SALAS TOUR 2025 -Never Goodbye Only Hello-|URL:https://bz-vermillion.com/is2/>))
+  * 2025/03/23: 千葉・La La Arena TOKYO-BAY
 * ((<家入レオ YAON ～SPRING TREE～ vol.2|URL:https://www.leo-ieirimobile.com/news/detail/100483>))
   * 2025/03/22: 東京・日比谷野外音楽堂
 * ((<阿部真央らいぶ2025 -15th ANNIVERSARY- at 東京ガーデンシアター|URL:https://abemao.com/feature/15th_livetour2024>))

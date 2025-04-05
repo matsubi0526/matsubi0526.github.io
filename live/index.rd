@@ -8,6 +8,7 @@
 * ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
+* ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 
 == 2025年
 * ((<INABA／SALAS TOUR 2025 -Never Goodbye Only Hello-|URL:https://bz-vermillion.com/is2/>))

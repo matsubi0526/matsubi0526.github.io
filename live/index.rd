@@ -4,13 +4,16 @@
 
 === 参戦予定のライブ/コンサート
 * ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
-* ((<名探偵コナン スペシャルコンサート 2025|URL:https://www.ytv.co.jp/event/contents/conanconcert2025.html>))
 * ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 
 == 2025年
+* ((<名探偵コナン スペシャルコンサート 2025|URL:https://www.ytv.co.jp/event/contents/conanconcert2025.html>))
+  * 2025/04/13: 東京・国立代々木競技場第一体育館
+* ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
+  * 2025/04/12: 東京・東京ガーデンシアター
 * ((<INABA／SALAS TOUR 2025 -Never Goodbye Only Hello-|URL:https://bz-vermillion.com/is2/>))
   * 2025/03/23: 千葉・La La Arena TOKYO-BAY
 * ((<家入レオ YAON ～SPRING TREE～ vol.2|URL:https://www.leo-ieirimobile.com/news/detail/100483>))

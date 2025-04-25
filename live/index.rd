@@ -6,6 +6,7 @@
 * ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))
+* ((<「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる|URL:https://www.seikima-ii.com/feature/skiivsbbm>))
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 

@@ -3,13 +3,14 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
 === 参戦予定のライブ/コンサート
-* ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))
 * ((<「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる|URL:https://www.seikima-ii.com/feature/skiivsbbm>))
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 
 == 2025年
+* ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))
+  * 2025/06/21: 東京・Billboard Live TOKYO
 * ((<聖飢魔II 地球デビュー40周年 期間限定再集結 大黒ミサツアー 「THE END OF SEASON ONE」|URL:https://www.seikima-ii.com/feature/blackmass>))
   * 2025/06/07: 兵庫・神戸国際会館 こくさいホール
   * 2025/04/12: 東京・東京ガーデンシアター

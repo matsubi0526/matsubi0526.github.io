@@ -7,6 +7,7 @@
 * ((<「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる|URL:https://www.seikima-ii.com/feature/skiivsbbm>))
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
+* ((<阿部真央アコースティックツアー2025 - On Your Way Home -|URL:https://abemao.com/feature/AcousticTour2025>))
 
 == 2025年
 * ((<ABE MAO Billboard Live Tour 2025|URL:https://abemao.com/feature/billboard_tour>))

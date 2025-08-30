@@ -7,6 +7,7 @@
 * ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 * ((<阿部真央アコースティックツアー2025 - On Your Way Home -|URL:https://abemao.com/feature/AcousticTour2025>))
+* ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))
 
 == 2025年
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))

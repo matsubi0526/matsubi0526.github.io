@@ -3,12 +3,13 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
 === 参戦予定のライブ/コンサート
-* ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
 * ((<家入レオ TOUR 2025 ～bulb～|URL:https://www.leo-ieirimobile.com/news/detail/100559>))
 * ((<阿部真央アコースティックツアー2025 - On Your Way Home -|URL:https://abemao.com/feature/AcousticTour2025>))
 * ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))
 
 == 2025年
+* ((<阿部真央 ホールツアー2025 - On My Way Home -|URL:https://abemao.com/feature/hallTour2025>))
+  * 2025/10/26: 愛知・Niterra日本特殊陶業市民会館ビレッジホール
 * ((<「聖飢魔II vs BABYMETAL」悪魔が来たりてベビメタる|URL:https://www.seikima-ii.com/feature/skiivsbbm>))
   * 2025/08/31: 神奈川・Kアリーナ横浜
 * ((<家入レオ Fanclub Live 2025 Donuts Box|URL:https://www.leo-ieirimobile.com/news/detail/100516>))

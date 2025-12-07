@@ -3,10 +3,12 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
 === 参戦予定のライブ/コンサート
-* ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))
 * ((<ABE MAO LIVE HOUSE TOUR 2026|URL:https://abemao.com/feature/Tour2026>))
 
+== 2026年
 == 2025年
+* ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))
+  * 2025/12/07: 東京・東京ドーム
 * ((<阿部真央アコースティックツアー2025 - On Your Way Home -|URL:https://abemao.com/feature/AcousticTour2025>))
   * 2025/11/30: 新潟・新潟LOTS
 * ((<家入レオ TOUR 2025 ～bulb～|URL:https://www.leo-ieirimobile.com/news/detail/100559>))

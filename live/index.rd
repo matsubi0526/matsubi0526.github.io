@@ -4,7 +4,7 @@
 
 === 参戦予定のライブ/コンサート
 * ((<ABE MAO LIVE HOUSE TOUR 2026|URL:https://abemao.com/feature/Tour2026>))
-
+* ((<家入レオ FANCLUB LIVE 2026 〜PIZZA 8〜|URL:https://www.leo-ieirimobile.com/news/detail/100675>))
 == 2026年
 == 2025年
 * ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))

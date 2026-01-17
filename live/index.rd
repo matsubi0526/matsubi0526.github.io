@@ -6,6 +6,7 @@
 * ((<家入レオ FANCLUB LIVE 2026 〜PIZZA 8〜|URL:https://www.leo-ieirimobile.com/news/detail/100675>))
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2026|URL:https://www.mai-kuraki.com/live/symphonicconcert2026.html>))
 * ((<Love from Orchestra Whispers in Spring LEO IEIRI|URL:https://lovefromorchestra.com/>))
+* ((<聖飢魔II GREAT BLACK MASS TOUR「SEASON II」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<ABE MAO LIVE HOUSE TOUR 2026|URL:https://abemao.com/feature/Tour2026>))
 == 2026年
 == 2025年

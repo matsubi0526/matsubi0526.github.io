@@ -3,12 +3,13 @@
 * COVID-19の影響により、生配信ライブとなったものも含みます
 
 === 参戦予定のライブ/コンサート
-* ((<家入レオ FANCLUB LIVE 2026 〜PIZZA 8〜|URL:https://www.leo-ieirimobile.com/news/detail/100675>))
 * ((<billboard classics Mai Kuraki Premium Symphonic Concert 2026|URL:https://www.mai-kuraki.com/live/symphonicconcert2026.html>))
 * ((<Love from Orchestra Whispers in Spring LEO IEIRI|URL:https://lovefromorchestra.com/>))
 * ((<聖飢魔II GREAT BLACK MASS TOUR「SEASON II」|URL:https://www.seikima-ii.com/feature/blackmass>))
 * ((<ABE MAO LIVE HOUSE TOUR 2026|URL:https://abemao.com/feature/Tour2026>))
 == 2026年
+* ((<家入レオ FANCLUB LIVE 2026 〜PIZZA 8〜|URL:https://www.leo-ieirimobile.com/news/detail/100675>))
+  * 2026/02/15: 東京・豊洲PIT
 == 2025年
 * ((<B'z LIVE-GYM 2025 -FYOP-|URL:https://bz-vermillion.com/livegym2025/>))
   * 2025/12/07: 東京・東京ドーム
